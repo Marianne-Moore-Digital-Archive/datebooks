@@ -64,7 +64,7 @@
             pb element.
             
            -->
-         <div facs="0001.jpg 0002">
+         <div facs="0001.jpg 0002.jpg">
             <!-- 
               I've added in @type to the pb element now, such that if you wanted to you could create values for any kind of 
             specific page-level rendering needed. I've used here cover and blank, but recto, verso, insert, or others could 
