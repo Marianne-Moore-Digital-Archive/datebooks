@@ -472,6 +472,12 @@
                   <l><label>22</label>[blank] copied ms.</l>
                   <l>[blank]</l>
                </lg>
+               <lg type="vertical">
+                  <l n="v01">[vertical line]&amp;lt;!desc: left margin, from "20" to "We"!&amp;gt; E Mac Cown</l>
+                  <l n="v02">[vertical line] &amp;lt;!desc: left margin, left aligned with previous vertical line!&amp;gt; Thos. H. Benton</l>
+                  <l n="v03">[vertical line] &amp;lt;!desc: left margin, left aligned with previous vertical line!&amp;gt; John Graham</l>
+                  <l n="v04">[vertical line] &amp;gt;!desc: left margin, left alighed with previous vertical line!&amp;gt; Khmer statuary</l>
+               </lg>
             </div>
          </div>
          <pb type="recto"/>
@@ -492,18 +498,18 @@
                <l><label><date when-iso="1930-03-25">Tu</date></label>[blank]</l>
                <l><label>25</label>[blank]</l>
                <l>[blank] bears go. Mole</l>
-               <l><label><date when-iso="1930-03-26">We</date></label>[blank]</l>
+               <l><label><date when-iso="1930-03-26">We</date></label>[blank] Mary Owens</l>
                <l><label>26</label>[blank]</l>
                <l>[blank]</l>
-               <l><label><date when-iso="1930-03-27">Th</date></label>[blank]</l>
+               <l><label><date when-iso="1930-03-27">Th</date></label>[blank] The Rivals</l>
                <l><label>27</label>[blank]</l>
                <l>[blank]</l>
                <l><label><date when-iso="1930-03-28">Fr</date></label>[blank]</l>
                <l><label>28</label>[blank]</l>
                <l>[blank]</l>
-               <l><label><date when-iso="1930-03-29">Sa</date></label>[blank]</l>
-               <l><label>29</label>[blank]</l>
-               <l>[blank]</l>
+               <l><label><date when-iso="1930-03-29">Sa</date></label>[blank] Badger</l>
+               <l><label>29</label>[blank] A month in the  Country</l>
+               <l>[blank] Douglas Dumbrille</l>
             </lg>
          </div>
          <div type="image" facs="0099.jpg">
