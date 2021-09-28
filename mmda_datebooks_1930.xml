@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -92,22 +89,22 @@
                   <l>[blank]</l>
                   <l>[blank] Dec 30</l>
                   <l><label><date when-iso="1929-12-30">Mo</date></label>[blank] <del>Eve</del> Jonathan Leonard</l>
-                  <l>[blank]</l>
+                  <l>[blank] _______________</l>
                   <l>[blank] (Everyman: Constance</l>
                   <l><label><date when-iso="1929-12-31">Tu</date></label>[blank]Evers Roberts: Badger</l>
                   <l>[blank]</l>
-                  <l>[blank] bears go. Mole</l>
-                  <l><label><date when-iso="1930-01-01">We</date></label>[blank]green dress</l>
+                  <l>[blank] hears gr. Mole</l>
+                  <l><label><date when-iso="1930-01-01">We</date></label>[blank]                 green dress</l>
                   <l><label>1</label>[blank] letters</l>
-                  <l>[blank]</l>
-                  <l><label><date when-iso="1930-01-02">Th</date></label>[blank]</l>
-                  <l><label>2</label>[blank]</l>
+                  <l>[blank]                    "               "</l>
+                  <l><label><date when-iso="1930-01-02">Th</date></label>[blank] "</l>
+                  <l><label>2</label>[blank]     "                 "</l>
                   <l>[blank]</l>
                   <l><label><date when-iso="1930-01-03">Fr</date></label>[blank]</l>
-                  <l><label>3</label>[blank]</l>
+                  <l><label>3</label>[blank]      "                 "</l>
                   <l>[blank]</l>
                   <l><label><date when-iso="1930-01-04">Sa</date></label>[blank]</l>
-                  <l><label>4</label>[blank]</l>
+                  <l><label>4</label>[blank]       "                   "</l>
                   <l>[blank]</l>
                </lg>
             </div>
@@ -122,17 +119,17 @@
             <head>January</head>
             <div type="entry">
                <lg>
-                  <l><label><date when-iso="1930-01-05">Su</date></label>[blank]</l>
+                  <l><label><date when-iso="1930-01-05">Su</date></label>[blank]    "                    "</l>
                   <l><label>5</label>[blank]</l>
                   <l>[blank]</l>
-                  <l><label><date when-iso="1930-01-06">Mo</date></label>[blank]</l>
+                  <l><label><date when-iso="1930-01-06">Mo</date></label>[blank] Mole. hair washed</l>
                   <l><label>6</label>[blank]</l>
                   <l>[blank]</l>
-                  <l><label><date when-iso="1930-01-07">Tu</date></label>[blank]</l>
-                  <l><label>7</label>[blank]</l>
-                  <l>[blank]</l>
-                  <l><label><date when-iso="1930-01-08">We</date></label>[blank]</l>
-                  <l><label>8</label>[blank]</l>
+                  <l><label><date when-iso="1930-01-07">Tu</date></label>[blank] C &amp; Badger &amp; Anna</l>
+                  <l><label>7</label>[blank] </l>
+                  <l>[blank]Fannie Berrie .8. P.M</l>
+                  <l><label><date when-iso="1930-01-08">We</date></label>[blank] automobile shoe</l>
+                  <l><label>8</label>[blank]Burton Holmes London</l>
                   <l>[blank]</l>
                   <l><label><date when-iso="1930-01-09">Th</date></label>[blank]</l>
                   <l><label>9</label>[blank]</l>
@@ -140,7 +137,7 @@
                   <l><label><date when-iso="1930-01-10">Fr</date></label>[blank]</l>
                   <l><label>10</label>[blank]</l>
                   <l>[blank]</l>
-                  <l><label><date when-iso="1930-01-11">Sa</date></label>[blank]</l>
+                  <l><label><date when-iso="1930-01-11">Sa</date></label>[blank] telephoned Viking Press</l>
                   <l><label>11</label>[blank]</l>
                   <l>[blank]</l>
                </lg>
