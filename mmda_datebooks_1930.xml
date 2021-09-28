@@ -375,7 +375,7 @@
          </div>
          <div type="image" facs="0099.jpg">
             <pb type="verso"/>
-            <div type="entry">
+            <desc>[Page-level Description] &amp;lt;!Curly brackets enclose the text ... !&amp;gt;</desc><div type="entry">
                <lg>
                   <l>[blank]</l>
                </lg>
@@ -422,15 +422,15 @@
                <l><label><date when-iso="1930-03-10">Mo</date></label>[blank]</l>
                <l><label>10</label>[blank]</l>
                <l>[blank]</l>
-               <l><label><date when-iso="1930-03-11">Tu</date></label>[blank]</l>
+               <l><label><date when-iso="1930-03-11">Tu</date></label>[blank] B: Tuesday for lunch</l>
                <l><label>11</label>[blank]</l>
                <l>[blank] bears go. Mole</l>
-               <l><label><date when-iso="1930-03-12">We</date></label>[blank]</l>
+               <l><label><date when-iso="1930-03-12">We</date></label>[blank] work on peacock dress</l>
                <l><label>12</label>[blank]</l>
                <l>[blank]</l>
-               <l><label><date when-iso="1930-03-13">Th</date></label>[blank]</l>
-               <l><label>13</label>[blank]</l>
-               <l>[blank]</l>
+               <l><label><date when-iso="1930-03-13">Th</date></label>[blank] Capt. Wells' funeral:</l>
+               <l><label>13</label>[blank]    uniform shop</l>
+               <l>[blank] income tax to A &amp; S.</l>
                <l><label><date when-iso="1930-03-14">Fr</date></label>[blank]</l>
                <l><label>14</label>[blank]</l>
                <l>[blank]</l>
