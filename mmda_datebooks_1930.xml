@@ -1266,11 +1266,7 @@
          <div type="entry">
             <lg>
                <l>[blank]</l>
-            </lg>
-         </div>
-         <head>October</head>
-         <div type="entry">
-            <lg>
+               <l><head>OCTOBER</head></l>
                <l><label><date when-iso="1930-10-05">Su</date></label>[blank] Bldg 38</l>
                <l><label>5</label>[blank]</l>
                <l>[blank]</l>
@@ -1299,15 +1295,12 @@
             <div type="entry">
                <lg>
                   <l>[blank]</l>
-               </lg>
-            </div>
-            <head>October</head>
-            <div type="entry">
-               <lg>
-                  <l><label><date when-iso="1930-10-12">Su</date></label>[blank]</l>
-                  <l><label>12</label>[blank]</l>
-                  <l>[blank]</l>
-                  <l><label><date when-iso="1930-10-13">Mo</date></label>[blank]</l>
+                  <l><head>OCTOBER</head></l>
+                  <l>[blank] Bldg 38 &amp; Hospital</l>
+                  <l><label><date when-iso="1930-10-12">Su</date></label>[blank] drove out with Badger</l>
+                  <l><label>12</label>[blank] L. brushed my hair</l>
+                  <l>[blank] </l>
+                  <l><label><date when-iso="1930-10-13">Mo</date></label>[blank] </l>
                   <l><label>13</label>[blank]</l>
                   <l>[blank]</l>
                   <l><label><date when-iso="1930-10-14">Tu</date></label>[blank]</l>
@@ -1332,11 +1325,7 @@
          <div type="entry">
             <lg>
                <l>[blank]</l>
-            </lg>
-         </div>
-         <head>October</head>
-         <div type="entry">
-            <lg>
+               <l><head>OCTOBER</head></l>
                <l><label><date when-iso="1930-10-19">Su</date></label>[blank]</l>
                <l><label>19</label>[blank]</l>
                <l>[blank]</l>
@@ -1365,11 +1354,7 @@
             <div type="entry">
                <lg>
                   <l>[blank]</l>
-               </lg>
-            </div>
-            <head>October—Nov.</head>
-            <div type="entry">
-               <lg>
+                  <l><head>OCTOBER—NOV.</head></l>
                   <l><label><date when-iso="1930-10-26">Su</date></label>[blank]</l>
                   <l><label>26</label>[blank]</l>
                   <l>[blank]</l>
@@ -1398,11 +1383,7 @@
          <div type="entry">
             <lg>
                <l>[blank]</l>
-            </lg>
-         </div>
-         <head>November</head>
-         <div type="entry">
-            <lg>
+               <l><head>NOVEMBER</head></l>
                <l><label><date when-iso="1930-11-02">Su</date></label>[blank]</l>
                <l><label>2</label>[blank]</l>
                <l>[blank]</l>
@@ -1431,11 +1412,7 @@
             <div type="entry">
                <lg>
                   <l>[blank]</l>
-               </lg>
-            </div>
-            <head>November</head>
-            <div type="entry">
-               <lg>
+                  <l><head>NOVEMBER</head></l>
                   <l><label><date when-iso="1930-11-09">Su</date></label>[blank]</l>
                   <l><label>9</label>[blank]</l>
                   <l>[blank]</l>
@@ -1464,11 +1441,7 @@
          <div type="entry">
             <lg>
                <l>[blank]</l>
-            </lg>
-         </div>
-         <head>November</head>
-         <div type="entry">
-            <lg>
+               <l><head>NOVEMBER</head></l>
                <l><label><date when-iso="1930-11-16">Su</date></label>[blank]</l>
                <l><label>16</label>[blank]</l>
                <l>[blank]</l>
@@ -1497,11 +1470,7 @@
             <div type="entry">
                <lg>
                   <l>[blank]</l>
-               </lg>
-            </div>
-            <head>November</head>
-            <div type="entry">
-               <lg>
+                  <l><head>NOVEMBER</head></l>
                   <l><label><date when-iso="1930-11-23">Su</date></label>[blank]</l>
                   <l><label>23</label>[blank]</l>
                   <l>[blank]</l>
@@ -1530,11 +1499,7 @@
          <div type="entry">
             <lg>
                <l>[blank]</l>
-            </lg>
-         </div>
-         <head>Nov.—December</head>
-         <div type="entry">
-            <lg>
+               <l><head>NOV.—DECEMBER</head></l>
                <l><label><date when-iso="1930-11-30">Su</date></label>[blank]</l>
                <l><label>30</label>[blank]</l>
                <l>[blank]</l>
@@ -1563,11 +1528,7 @@
             <div type="entry">
                <lg>
                   <l>[blank]</l>
-               </lg>
-            </div>
-            <head>December</head>
-            <div type="entry">
-               <lg>
+                   <l><head>DECEMBER</head></l>
                   <l><label><date when-iso="1930-12-07">Su</date></label>[blank]</l>
                   <l><label>7</label>[blank]</l>
                   <l>[blank]</l>
@@ -1596,11 +1557,7 @@
          <div type="entry">
             <lg>
                <l>[blank]</l>
-            </lg>
-         </div>
-         <head>Feb.—March</head>
-         <div type="entry">
-            <lg>
+               <l><head>DECEMBER</head></l>
                <l><label><date when-iso="1930-12-14">Su</date></label>[blank]</l>
                <l><label>14</label>[blank]</l>
                <l>[blank]</l>
@@ -1629,11 +1586,7 @@
             <div type="entry">
                <lg>
                   <l>[blank]</l>
-               </lg>
-            </div>
-            <head>December</head>
-            <div type="entry">
-               <lg>
+                  <l><head>DECEMBER</head></l>
                   <l><label><date when-iso="1930-12-21">Su</date></label>[blank]</l>
                   <l><label>21</label>[blank]</l>
                   <l>[blank]</l>
@@ -1662,11 +1615,7 @@
          <div type="entry">
             <lg>
                <l>[blank]</l>
-            </lg>
-         </div>
-         <head>December</head>
-         <div type="entry">
-            <lg>
+               <l><head>DECEMBER</head></l>
                <l><label><date when-iso="1930-12-28">Su</date></label>[blank]</l>
                <l><label>28</label>[blank]</l>
                <l>[blank]</l>
