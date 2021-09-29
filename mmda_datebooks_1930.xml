@@ -678,7 +678,7 @@
             </div>
          </div>
          <pb type="recto"/>
-         <div type="entry">
+         <desc>[Page-level Description]&amp;lt;!desc: a curly bracket is placed to the left of the four lines beginning at entry "We 21"!&amp;gt;</desc><div type="entry">
             <lg>
                <l>[blank]</l>
             </lg>
@@ -695,18 +695,18 @@
                <l><label><date when-iso="1930-05-20">Tu</date></label>[blank] Badger at home,</l>
                <l><label>20</label>[blank] Anna to clean: Good talk</l>
                <l>[blank] </l>
-               <l><label><date when-iso="1930-05-21">We</date></label>[blank] Miss Joe an did air</l>
+               <l><label><date when-iso="1930-05-21">We</date></label>[blank] Miss [Joe an did air--?]</l>
                <l><label>21</label>[blank] Mole mailed letter</l>
                <l>[blank] complaining of the worms</l>
                <l><label><date when-iso="1930-05-22">Th</date></label>[blank] Badger at banquet overnight</l>
                <l><label>22</label>[blank]</l>
                <l>[blank]</l>
-               <l><label><date when-iso="1930-05-23">Fr</date></label>[blank]</l>
-               <l><label>23</label>[blank]</l>
+               <l><label><date when-iso="1930-05-23">Fr</date></label>[blank] wrote Mr. Saintsbury : Alyse.</l>
+               <l><label>23</label>[blank] B. spoke to Scouts</l>
                <l>[blank]</l>
-               <l><label><date when-iso="1930-05-24">Sa</date></label>[blank]</l>
-               <l><label>24</label>[blank]</l>
-               <l>[blank]</l>
+               <l><label><date when-iso="1930-05-24">Sa</date></label>[blank] B. sailing w Mr Smith</l>
+               <l><label>24</label>[blank] Reveille noon.</l>
+               <l>[blank] flints arrived.</l>
             </lg>
          </div>
          <div type="image" facs="0099.jpg">
