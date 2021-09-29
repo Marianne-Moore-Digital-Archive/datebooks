@@ -428,7 +428,7 @@
                   <l n="v01">[vertical line]&amp;lt;!desc: left margin, from "20" to "We"!&amp;gt; E Mac Cown</l>
                   <l n="v02">[vertical line] &amp;lt;!desc: left margin, left aligned with previous vertical line!&amp;gt; Thos. H. Benton</l>
                   <l n="v03">[vertical line] &amp;lt;!desc: left margin, left aligned with previous vertical line!&amp;gt; John Graham</l>
-                  <l n="v04">[vertical line] &amp;gt;!desc: left margin, left alighed with previous vertical line!&amp;gt; Khmer statuary</l>
+                  <l n="v04">[vertical line] &amp;gt;!desc: left margin, left aligned with previous vertical line!&amp;gt; Khmer statuary</l>
                </lg>
             </div>
          </div>
@@ -648,11 +648,7 @@
             <div type="entry">
                <lg>
                   <l>[blank]</l>
-               </lg>
-            </div>
-            <head>MAY</head>
-            <div type="entry">
-               <lg>
+                  <l><head>MAY</head></l>
                   <l><label><date when-iso="1930-05-11">Su</date></label>[blank]</l>
                   <l><label>11</label>[blank] Bldg 38   9. A.M.</l>
                   <l>[blank]</l>
@@ -663,8 +659,8 @@
                   <l><label>13</label>[blank]</l>
                   <l>[blank]</l>
                   <l><label><date when-iso="1930-05-14">We</date></label>[blank] 8 P.M.  Dr Morgan</l>
-                  <l><label>14</label>[blank]                   word</l>
-                  <l>[blank] Badger the to the green Pasturs</l>
+                  <l><label>14</label>[blank]    the            word</l>
+                  <l>[blank]  Badger    to   the green Pasturs<note>The Green Pastures is a play that opened in New York City in 1930.</note></l>
                   <l><label><date when-iso="1930-05-15">Th</date></label>[blank] drove in the car </l>
                   <l><label>15</label>[blank] to 142th Street</l>
                   <l>[blank]</l>
@@ -681,11 +677,7 @@
          <desc>[Page-level Description]&amp;lt;!desc: a curly bracket is placed to the left of the four lines beginning at entry "We 21"!&amp;gt;</desc><div type="entry">
             <lg>
                <l>[blank]</l>
-            </lg>
-         </div>
-         <head>May</head>
-         <div type="entry">
-            <lg>
+               <l><head>MAY</head></l>
                <l><label><date when-iso="1930-05-18">Su</date></label>[blank] Bldg 38</l>
                <l><label>18</label>[blank]</l>
                <l>[blank]</l>
@@ -711,14 +703,10 @@
          </div>
          <div type="image" facs="0099.jpg">
             <pb type="verso"/>
-            <div type="entry">
+            <desc>[Page-level Description]&amp;lt;!desc: In "Sa 31" "lost" and "race" are contained in parentheses.!&amp;gt; </desc><div type="entry">
                <lg>
                   <l>[blank]</l>
-               </lg>
-            </div>
-            <head>May</head>
-            <div type="entry">
-               <lg>
+                  <l><head>MAY</head></l>
                   <l><label><date when-iso="1930-05-25">Su</date></label>[blank] rained—did not</l>
                   <l><label>25</label>[blank] go to Bldg. 38</l>
                   <l>[blank] boys &amp; girls at church next door</l>
@@ -740,6 +728,9 @@
                   <l><label><date when-iso="1930-05-31">Sa</date></label>[blank]    "                 "           lost</l>
                   <l><label>31</label>[blank]                                    race</l>
                   <l>[blank]</l>
+               </lg>
+               <lg type="vertical">
+                  <l n="v01">[vertical line] Badger to green Pastures w the Owenses</l>
                </lg>
             </div>
          </div>
