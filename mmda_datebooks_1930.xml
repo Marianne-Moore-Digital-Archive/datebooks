@@ -768,7 +768,7 @@
          </div>
          <div type="image" facs="0099.jpg">
             <pb type="verso"/>
-            <div type="entry">
+            <desc>[Page-level Description]&amp;lt;!desc: Curly brackets enclose the four lines beginning at entry "We 11".!&amp;gt;</desc><div type="entry">
                <lg>
                   <l>[blank]</l>
                </lg>
@@ -792,10 +792,10 @@
                   <l><label>12</label>[blank]</l>
                   <l>[blank]</l>
                   <l><label><date when-iso="1930-06-13">Fr</date></label>[blank]</l>
-                  <l><label>13</label>[blank]</l>
+                  <l><label>13</label>[blank] Mary Owens</l>
                   <l>[blank]</l>
-                  <l><label><date when-iso="1930-06-14">Sa</date></label>[blank]</l>
-                  <l><label>14</label>[blank]</l>
+                  <l><label><date when-iso="1930-06-14">Sa</date></label>[blank]    Badger did not sail</l>
+                  <l><label>14</label>[blank] Longear's<note>Longear is a nickname for MWM, who is also called Bunny.</note> blue silk dress</l>
                   <l>[blank]</l>
                </lg>
             </div>
