@@ -855,9 +855,9 @@
             <lg>
                <l>[blank]</l>
                <l><head>JUNE—JULY</head></l>
-               <l><label><date when-iso="1930-06-29">Su</date></label>[blank]</l>
-               <l><label>29</label>[blank]</l>
-               <l>[blank]</l>
+               <l><label><date when-iso="1930-06-29">Su</date></label>[blank] Bldg 38    worry</l>
+               <l><label>29</label>[blank] 55th St   Navy Relief</l>
+               <l>[blank] Byrd tower</l>
                <l><label><date when-iso="1930-06-30">Mo</date></label>[blank]</l>
                <l><label>30</label>[blank]</l>
                <l>[blank]</l>
@@ -871,10 +871,10 @@
                <l><label>3</label>[blank]</l>
                <l>[blank]</l>
                <l><label><date when-iso="1930-07-04">Fr</date></label>[blank]</l>
-               <l><label>4</label>[blank]</l>
-               <l>[blank]</l>
+               <l><label>4</label>[blank]  : Larchmont with Mrs. Smith</l>
+               <l>[blank]   Reveille, 5</l>
                <l><label><date when-iso="1930-07-05">Sa</date></label>[blank]</l>
-               <l><label>5</label>[blank]</l>
+               <l><label>5</label>[blank] Badger sailing</l>
                <l>[blank]</l>
             </lg>
          </div>
@@ -888,7 +888,7 @@
             <head>July</head>
             <div type="entry">
                <lg>
-                  <l><label><date when-iso="1930-07-06">Su</date></label>[blank]</l>
+                  <l><label><date when-iso="1930-07-06">Su</date></label>[blank] Hospital   Jacob &amp; Esau</l>
                   <l><label>6</label>[blank]</l>
                   <l>[blank]</l>
                   <l><label><date when-iso="1930-07-07">Mo</date></label>[blank]</l>
@@ -903,11 +903,11 @@
                   <l><label><date when-iso="1930-07-10">Th</date></label>[blank]</l>
                   <l><label>10</label>[blank]</l>
                   <l>[blank]</l>
-                  <l><label><date when-iso="1930-07-11">Fr</date></label>[blank]</l>
-                  <l><label>11</label>[blank]</l>
+                  <l><label><date when-iso="1930-07-11">Fr</date></label>[blank] Crestwood 3.320 P.M</l>
+                  <l><label>11</label>[blank] took Dickey</l>
                   <l>[blank]</l>
-                  <l><label><date when-iso="1930-07-12">Sa</date></label>[blank]</l>
-                  <l><label>12</label>[blank]</l>
+                  <l><label><date when-iso="1930-07-12">Sa</date></label>[blank] Badger sailing</l>
+                  <l><label>12</label>[blank] Return 9.30</l>
                   <l>[blank]</l>
                </lg>
             </div>
