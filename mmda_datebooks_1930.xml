@@ -1184,23 +1184,25 @@
                   <l>[blank]</l>
                   <l><label><date when-iso="1930-09-16">Tu</date></label>[blank] wrote Mr Godkin</l>
                   <l><label>16</label>[blank]    "         "    Kunitz</l>
-                  <l>[blank]         "         "     Hallber</l>
-                  <l><label><date when-iso="1930-09-17">We</date></label>[blank]</l>
+                  <l>[blank]         "         "    Hallberg</l>
+                  <l>[blank] Badger didn't come to lunch</l>
+                  <l><label><date when-iso="1930-09-17">We</date></label>[blank] ________________________</l>
                   <l><label>17</label>[blank]</l>
                   <l>[blank]</l>
                   <l><label><date when-iso="1930-09-18">Th</date></label>[blank]</l>
                   <l><label>18</label>[blank]</l>
                   <l>[blank]</l>
-                  <l><label><date when-iso="1930-09-19">Fr</date></label>[blank]</l>
-                  <l><label>19</label>[blank]</l>
+                  <l><label><date when-iso="1930-09-19">Fr</date></label>[blank] to Crestwood—for</l>
+                  <l><label>19</label>[blank] luncheon—(Sofy in charge)</l>
                   <l>[blank]</l>
-                  <l><label><date when-iso="1930-09-20">Sa</date></label>[blank]</l>
-                  <l><label>20</label>[blank]</l>
-                  <l>[blank]</l>
+                  <l><label><date when-iso="1930-09-20">Sa</date></label>[blank] wrote Dr Watson</l>
+                  <l><label>20</label>[blank] :  Badger to Kensico<note>The location of a dam and popular greenspace in Westchester County, NY.</note> on</l>
+                  <l>[blank] picnic</l>
                </lg>
             </div>
          </div>
          <pb type="recto"/>
+         <desc>[Page-level Description}</desc>
          <div type="entry">
             <lg>
                <l>[blank]</l>
@@ -1227,6 +1229,9 @@
                <l><label>27</label>[blank]</l>
                <l>[blank]</l>
             </lg>
+               <lg type="vertical">
+                  <l n="v01">[vertical line]</l>
+               </lg>
          </div>
          <div type="image" facs="0099.jpg">
             <pb type="verso"/>
