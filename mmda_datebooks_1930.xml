@@ -938,7 +938,7 @@
          </div>
          <div type="image" facs="0099.jpg">
             <pb type="verso"/>
-            <div type="entry">
+            <desc>[Page-level Description]&amp;lt;!desc: a large curly bracket encloses all the days of the week in the left margin.!&amp;gt;</desc><div type="entry">
                <lg>
                   <l>[blank]                                    temptation</l>
                   <l><head>JULY</head></l>
@@ -963,6 +963,9 @@
                   <l><label><date when-iso="1930-07-26">Sa</date></label>[blank]   bath 5 PM</l>
                   <l><label>26</label>[blank]</l>
                   <l>[blank]</l>
+               </lg>
+               <lg type="vertical">
+                  <l n="v01">[vertical line]&amp;lt;!desc: To the left of the upper half of the curly bracket, from just below "21" to just above "Su".!&amp;gt; Race week</l>
                </lg>
             </div>
          </div>
