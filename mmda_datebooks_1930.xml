@@ -683,31 +683,27 @@
          <div type="entry">
             <lg>
                <l>[blank]</l>
-            </lg>
-         </div>
-         <head>May</head>
-         <div type="entry">
-            <lg>
-               <l><label><date when-iso="1930-05-04">Su</date></label>[blank]</l>
-               <l><label>4</label>[blank]</l>
+               <l>[blank]<label>May</label>[blank]</l>
+               <l>[blank]<label><date when-iso="1930-05-04">Su</date></label>[blank]</l>
+               <l>[blank]<label>4</label>[blank]</l>
                <l>[blank]</l>
-               <l><label><date when-iso="1930-05-05">Mo</date></label>[blank]</l>
-               <l><label>5</label>[blank]</l>
+               <l>[blank]<label><date when-iso="1930-05-05">Mo</date></label>[blank]</l>
+               <l>[blank]<label>5</label>[blank]</l>
                <l>[blank]</l>
-               <l><label><date when-iso="1930-05-06">Tu</date></label>[blank]</l>
-               <l><label>6</label>[blank]</l>
-               <l>[blank] bears go. Mole</l>
-               <l><label><date when-iso="1930-05-07">We</date></label>[blank]</l>
-               <l><label>7</label>[blank]</l>
+               <l>[blank]<label><date when-iso="1930-05-06">Tu</date></label>[blank]</l>
+               <l>[blank]<label>6</label>[blank]</l>
+               <l>[blank] </l>
+               <l>[blank]<label><date when-iso="1930-05-07">We</date></label>[blank]</l>
+               <l>[blank]<label>7</label>[blank]</l>
                <l>[blank]</l>
-               <l><label><date when-iso="1930-05-08">Th</date></label>[blank]</l>
-               <l><label>8</label>[blank]</l>
+               <l>[blank]<label><date when-iso="1930-05-08">Th</date></label>[blank]</l>
+               <l>[blank]<label>8</label>[blank]</l>
                <l>[blank]</l>
-               <l><label><date when-iso="1930-05-09">Fr</date></label>[blank]</l>
-               <l><label>9</label>[blank]</l>
+               <l>[blank]<label><date when-iso="1930-05-09">Fr</date></label>[blank]</l>
+               <l>[blank]<label>9</label>[blank]</l>
                <l>[blank]</l>
-               <l><label><date when-iso="1930-05-10">Sa</date></label>[blank]</l>
-               <l><label>10</label>[blank]</l>
+               <l>[blank]<label><date when-iso="1930-05-10">Sa</date></label>[blank]</l>
+               <l>[blank]<label>10</label>[blank]</l>
                <l>[blank]</l>
             </lg>
          </div>
