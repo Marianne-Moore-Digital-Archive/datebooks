@@ -5,7 +5,9 @@
             <title>Title</title>
             <author>
                <persName ref="#mm">Marianne Moore</persName>
-            </author>
+            </author>               <lg type="vertical">
+                  <l n="v01">[vertical line]</l>
+               </lg>
             <editor>Luke Carson</editor>
             <respStmt>
                <resp>Mock-up TEI prepared by</resp>
@@ -1367,29 +1369,35 @@
             <pb type="verso"/>
             <div type="entry">
                <lg>
-                  <l>[blank] II Corinth.   Chap [6?]</l>
-                  <l><head>OCTOBER—NOV.</head></l>
-                  <l><label><date when-iso="1930-10-26">Su</date></label>[blank] Bldg 38  Though poor rich</l>
-                  <l><label>26</label>[blank]</l>
+                  <l>[blank]                        II Corinth.   Chap 8</l>
+                  <l>[blank]                            <head>OCTOBER—NOV.</head></l>
+                  <l>[blank]                      <label><date when-iso="1930-10-26">Su</date></label>[blank] Bldg 38  Though poor rich</l>
+                  <l>[blank]                      <label>26</label>[blank]</l>
                   <l>[blank]</l>
-                  <l><label><date when-iso="1930-10-27">Mo</date></label>[blank]</l>
-                  <l><label>27</label>[blank]</l>
+                  <l>[blank]        Horses <label><date when-iso="1930-10-27">Mo</date></label>[blank] [Horses?] Hong Kong.</l>
+                  <l>[blank]                       <label>27</label>[blank] alligator toboggan</l>
+                  <l>[blank]                     [Mandy?] 2[??]—Mrs. Brewer</l>
+                  <l>[blank] to see Alyse <label><date when-iso="1930-10-28">Tu</date></label>[blank] 4 Patchin Place. 1 PM</l>
+                  <l>[blank]                        <label>28</label>[blank] 4 PM-9     Collecting for furnace</l>
+                  <l>[blank]                                                                                            man </l>
+                  <l>[blank]                        <label><date when-iso="1930-10-29">We</date></label>[blank]</l>
+                  <l>[blank]                         <label>29</label>[blank]</l>
                   <l>[blank]</l>
-                  <l><label><date when-iso="1930-10-28">Tu</date></label>[blank]</l>
-                  <l><label>28</label>[blank]</l>
+                  <l>[blank]                         <label><date when-iso="1930-10-30">Th</date></label>[blank]</l>
+                  <l>[blank]                         <label>30</label>[blank]</l>
+                  <l>[blank]                         --------------------------------------------------</l>
+                  <l>[blank]                                                          cleaned hall &amp; apt</l>
+                  <l>[blank]                         <label><date when-iso="1930-10-31">Fr</date></label>[blank] Dr. Seabury:</l>
+                  <l>[blank]                         <label>31</label>[blank]         Inner Longings &amp; outer</l>
+                  <l>[blank]                     differences—John McCormack: song of my heart </l>
+                  <l>[blank]                        -----------------------</l>
+                  <l>[blank]                               Badger at 34 Chitham</l>
+                  <l>[blank]                         <label><date when-iso="1930-11-01">Sa</date></label>[blank]</l>
+                  <l>[blank]                            <label>1</label>[blank]</l>
                   <l>[blank]</l>
-                  <l><label><date when-iso="1930-10-29">We</date></label>[blank]</l>
-                  <l><label>29</label>[blank]</l>
-                  <l>[blank]</l>
-                  <l><label><date when-iso="1930-10-30">Th</date></label>[blank]</l>
-                  <l><label>30</label>[blank]</l>
-                  <l>[blank]</l>
-                  <l><label><date when-iso="1930-10-31">Fr</date></label>[blank]</l>
-                  <l><label>31</label>[blank]</l>
-                  <l>[blank]</l>
-                  <l><label><date when-iso="1930-11-01">Sa</date></label>[blank]</l>
-                  <l><label>1</label>[blank]</l>
-                  <l>[blank]</l>
+               </lg>
+               <lg type="vertical">
+                  <l n="v01">[vertical line] &amp;lt;!desc: up right margin, following colon after "McCormack."!&amp;gt; song of my heart</l>
                </lg>
             </div>
          </div>
