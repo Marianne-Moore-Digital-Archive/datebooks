@@ -1560,7 +1560,7 @@
          </div>
          <div type="image" facs="0099.jpg">
             <pb type="verso"/>
-            <desc>[Page-level Description] &amp;lt;!The top left corner of the page has a watery ink stain.!&amp;gt;</desc><div type="entry">
+            <desc>[Page-level Description] &amp;lt;!The top left corner of the page has a watery ink stainThree lines from "19" to "Sa!" are enclosed with a drawn left bottom corner matched by a square bracket to the right of the four lines from "Fr" to "Sa"!&amp;gt;</desc><div type="entry">
                <lg>
                   <l>[blank]</l>
                    <l><head>DECEMBER</head></l>
@@ -1588,39 +1588,39 @@
                   <l>[blank] stories        //Circus 11 AM.</l>
                </lg>
                <lg type="vertical">
-                  <l n="v01">[vertical line]&amp;lt;!desc: left margin, from bottom corner to top, first two lines aligned on left and last three aligned at right top!&amp;gt; Dec. 11 8.15   The discovery of excavations of / Olynthus a Gr City destroyed by father of / Alexander the Great. David M / Robinson / of Johns Hopkins</l>
+                  <l n="v01">[vertical line]&amp;lt;!desc: left margin, from bottom corner to top, first two lines aligned on left and last three aligned at right top.!&amp;gt; Dec. 11 8.15   The discovery of excavations of / Olynthus a Gr City destroyed by father of / Alexander the Great. David M / Robinson / of Johns Hopkins</l>
                </lg>
             </div>
          </div>
          <pb type="recto"/>
-         <div type="entry">
+         <desc>[Page-level Description] &amp;lt;!"16" and "17" are circled. Three lines from "19" to "Sa!" are enclosed with a drawn left bottom corner matched by a square bracket to the right of the four lines from "Fr" to "Sa"!&amp;gt;</desc><div type="entry">
             <lg>
-               <l>[blank]</l>
+               <l>[blank] Badger—army-Navy game Sat</l>
                <l><head>DECEMBER</head></l>
-               <l><label><date when-iso="1930-12-14">Su</date></label>[blank]</l>
+               <l><label><date when-iso="1930-12-14">Su</date></label>[blank] Mole in bed</l>
                <l><label>14</label>[blank]</l>
                <l>[blank]</l>
-               <l><label><date when-iso="1930-12-15">Mo</date></label>[blank]</l>
-               <l><label>15</label>[blank]</l>
-               <l>[blank]</l>
+               <l><label><date when-iso="1930-12-15">Mo</date></label>[blank] <hi rend="underline">Dr. Thorburn 3:15 PM</hi> </l>
+               <l><label>15</label>[blank] <del>8.15 Don Cossacks. Badger</del></l>
+               <l>[blank]  <del>Constance &amp; Mole</del> </l>
                <l><label><date when-iso="1930-12-16">Tu</date></label>[blank]</l>
-               <l><label>16</label>[blank]</l>
-               <l>[blank] bears go. Mole</l>
-               <l><label><date when-iso="1930-12-17">We</date></label>[blank]</l>
-               <l><label>17</label>[blank]</l>
+               <l><label>16</label>[blank] <del>8.15 Hans Barth Harpsicord</del> </l>
+               <l>[blank] <del>or Quarter Tone Piano</del> </l>
+               <l><label><date when-iso="1930-12-17">We</date></label>[blank] Badger wrote cousin</l>
+               <l><label>17</label>[blank] Henry. </l>
                <l>[blank]</l>
                <l><label><date when-iso="1930-12-18">Th</date></label>[blank]</l>
                <l><label>18</label>[blank]</l>
                <l>[blank]</l>
-               <l><label><date when-iso="1930-12-19">Fr</date></label>[blank]</l>
-               <l><label>19</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-12-20">Sa</date></label>[blank]</l>
-               <l><label>20</label>[blank]</l>
+               <l><label><date when-iso="1930-12-19">Fr</date></label>[blank] The Ital. lakes, Lombardy </l>
+               <l><label>19</label>[blank] Venice and the Riviera</l>
+               <l>[blank] [Mrs?} Franco B Averardi d. of</l>
+               <l><label><date when-iso="1930-12-20">Sa</date></label>[blank] former Premier Orlando </l>
+               <l><label>20</label>[blank] mailed cards Saturday </l>
                <l>[blank]</l>
             </lg>
             <lg type="vertical">
-               <l n="v01">[vertical line] </l>
+               <l n="v01">[vertical line]&amp;lt;!desc: up left margin from bottom corner to "DECEMBER"!&amp;gt; Italo-Amer. Soc 745  9th Ave.</l>
             </lg>
          </div>
          <div type="image" facs="0099.jpg">
