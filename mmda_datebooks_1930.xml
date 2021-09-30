@@ -5,17 +5,15 @@
             <title>Title</title>
             <author>
                <persName ref="#mm">Marianne Moore</persName>
-            </author>               <lg type="vertical">
-                  <l n="v01">[vertical line]</l>
-               </lg>
+            </author>
             <editor>Luke Carson</editor>
             <respStmt>
                <resp>Mock-up TEI prepared by</resp>
                <persName>Nick Wasmoen</persName>
             </respStmt>
             <respStmt>
-               <resp>transcription</resp>
-               <persName>name name</persName>
+               <resp>Transcribed by</resp>
+               <persName>Cristanne Miller and Luke Carson</persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
