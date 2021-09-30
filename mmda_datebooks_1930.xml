@@ -1405,29 +1405,36 @@
          <div type="entry">
             <lg>
                <l>[blank]</l>
-               <l><head>NOVEMBER</head></l>
-               <l><label><date when-iso="1930-11-02">Su</date></label>[blank]</l>
-               <l><label>2</label>[blank]</l>
+               <l>[blank]<head>NOVEMBER</head></l>
+               <l>[blank]  <label><date when-iso="1930-11-02">Su</date></label>[blank] Bldg 38</l>
+               <l>[blank]     <label>2</label>[blank]</l>
                <l>[blank]</l>
-               <l><label><date when-iso="1930-11-03">Mo</date></label>[blank]</l>
-               <l><label>3</label>[blank]</l>
+               <l>[blank] <label><date when-iso="1930-11-03">Mo</date></label>[blank] movies—Slow motion pole-</l>
+               <l>[blank]     <label>3</label>[blank] vaulting—throwing discus</l>
+               <l>[blank]            John McGraw—Japan musicians </l>
+               <l>[blank]                                                                  etc</l>
+               <l>[blank]  <label><date when-iso="1930-11-04">Tu</date></label>[blank]                      window cord</l>
+               <l>[blank]     <label>4</label>[blank]       [MSS?] copying</l>
+               <l>[blank] </l>
+               <l>[blank] <label><date when-iso="1930-11-05">We</date></label>[blank]</l>
+               <l>[blank]     <label>5</label>[blank]  —</l>
                <l>[blank]</l>
-               <l><label><date when-iso="1930-11-04">Tu</date></label>[blank]</l>
-               <l><label>4</label>[blank]</l>
-               <l>[blank] bears go. Mole</l>
-               <l><label><date when-iso="1930-11-05">We</date></label>[blank]</l>
-               <l><label>5</label>[blank]</l>
+               <l>[blank]  <label><date when-iso="1930-11-06">Th</date></label>[blank]   Dr Baldwin         10 A.M.</l>
+               <l>[blank]     <label>6</label>[blank]    Currier &amp; Ives</l>
+               <l>[blank]           Summer scene in the Country </l>
+               <l>[blank]    Park Place N.Y. 1850</l>
+               <l>[blank]  <label><date when-iso="1930-11-07">Fr</date></label>[blank] cleaned apt &amp; hall</l>
+               <l>[blank]    <label>7</label>[blank]</l>
                <l>[blank]</l>
-               <l><label><date when-iso="1930-11-06">Th</date></label>[blank]</l>
-               <l><label>6</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-11-07">Fr</date></label>[blank]</l>
-               <l><label>7</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-11-08">Sa</date></label>[blank]</l>
-               <l><label>8</label>[blank]</l>
+               <l>[blank]  <label><date when-iso="1930-11-08">Sa</date></label>[blank] seeing the elaphant</l>
+               <l>[blank]    <label>8</label>[blank] De Quincey. H.C. Ostrander<note>H. C. Ostrander (aka Uncle Harry) was a world traveler, photographer, and lecturer. “Seeing the elephant” is a colloquial phrase frequently used during the American Civil War to refer to one’s first experience of battle; generally, it means to gain experience of the world at a high cost.</note> </l>
                <l>[blank]</l>
             </lg>
+               <lg type="vertical">
+                  <l n="v01">[vertical line]&amp;lt;!desc: up left margine from "Fr" to "5"!&amp;gt; The Brewers</l>
+                  <l n="v02">[vertical line]</l>
+                  <l n="v03">[vertical line]</l>
+               </lg>
          </div>
          <div type="image" facs="0099.jpg">
             <pb type="verso"/>
