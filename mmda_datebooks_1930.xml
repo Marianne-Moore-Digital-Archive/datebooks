@@ -1589,6 +1589,14 @@
                   <l><label><date when-iso="1930-12-13">Sa</date></label>[blank] Edna Thomas &amp; Mary Hyams</l>
                   <l><label>13</label>[blank] ---------------------------------------</l>
                   <l>[blank] mailed Standard Union</l>
+                  <l>[blank] stories        //Circus 11 AM.</l>
+               </lg>
+               <lg type="vertical">
+                  <l n="v01">[vertical line]&amp;lt;!desc: left margin, from bottom corner to top, first two lines aligned on left and last three aligned at right top!&amp;gt; Dec. 11 8.15   The discovery of excavations of / Olynthus a Gr City destroyed by father of / Alexander the Great. Dvid M / Robinson / of Johns Hopkins</l>
+                  <l n="v02">[vertical line]</l>
+                  <l n="v03">[vertical line]</l>
+                  <l n="v04">[vertical line]</l>
+                  <l n="v05">[vertical line]</l>
                </lg>
             </div>
          </div>
@@ -1618,6 +1626,9 @@
                <l><label><date when-iso="1930-12-20">Sa</date></label>[blank]</l>
                <l><label>20</label>[blank]</l>
                <l>[blank]</l>
+            </lg>
+            <lg type="vertical">
+               <l n="v01">[vertical line] </l>
             </lg>
          </div>
          <div type="image" facs="0099.jpg">
