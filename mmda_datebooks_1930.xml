@@ -1504,27 +1504,28 @@
                <lg>
                   <l>[blank]</l>
                   <l>[blank]<head>NOVEMBER</head></l>
-                  <l>[blank]<label><date when-iso="1930-11-23">Su</date></label>[blank]</l>
-                  <l>[blank]<label>23</label>[blank]</l>
+                  <l>[blank]                      <label><date when-iso="1930-11-23">Su</date></label>[blank] Bldg 38 Abraham&amp; Isaac</l>
+                  <l>[blank]                      <label>23</label>[blank] walk to Fort Green Park</l>
+                  <l>[blank]                         Pinny on dining table</l>
+                  <l>[blank]                      <label><date when-iso="1930-11-24">Mo</date></label>[blank]</l>
+                  <l>[blank]                       <label>24</label>[blank]</l>
                   <l>[blank]</l>
-                  <l>[blank]<label><date when-iso="1930-11-24">Mo</date></label>[blank]</l>
-                  <l>[blank]<label>24</label>[blank]</l>
+                  <l>[blank]                       <label><date when-iso="1930-11-25">Tu</date></label>[blank] Anna to clean</l>
+                  <l>[blank]                        <label>25</label>[blank]</l>
                   <l>[blank]</l>
-                  <l>[blank]<label><date when-iso="1930-11-25">Tu</date></label>[blank]</l>
-                  <l>[blank]<label>25</label>[blank]</l>
+                  <l>[blank]                        <label><date when-iso="1930-11-26">We</date></label>[blank] Mole to Dr. Schmidt</l>
+                  <l>[blank]                         <label>26</label>[blank]</l>
                   <l>[blank]</l>
-                  <l>[blank]<label><date when-iso="1930-11-26">We</date></label>[blank]</l>
-                  <l>[blank]<label>26</label>[blank]</l>
+                  <l>[blank]                         <label><date when-iso="1930-11-27">Th</date></label>[blank]</l>
+                  <l>[blank]                          <label>27</label>[blank] Pinny let out in kitchen   A.T. Ritchie</l>
                   <l>[blank]</l>
-                  <l><label><date when-iso="1930-11-27">Th</date></label>[blank]</l>
-                  <l>[blank]<label>27</label>[blank]</l>
-                  <l>[blank]</l>
-                  <l>[blank]<label><date when-iso="1930-11-28">Fr</date></label>[blank]</l>
-                  <l>[blank]<label>28</label>[blank]</l>
-                  <l>[blank]</l>
-                  <l>[blank]<label><date when-iso="1930-11-29">Sa</date></label>[blank]</l>
-                  <l>[blank]<label>29</label>[blank]</l>
-                  <l>[blank]</l>
+                  <l>[blank]                          <label><date when-iso="1930-11-28">Fr</date></label>[blank]      Cinderella   11 AM</l>
+                  <l>[blank]   Pin's muffin <label>28</label>[blank] Cocolora &amp; monkey</l>
+                  <l>[blank]                                               8.15 Horace E Coleman</l>
+                  <l>[blank]                            Japanese Landscapes &amp; Gardens</l>
+                  <l>[blank]                           <label><date when-iso="1930-11-29">Sa</date></label>[blank] --------------------------------</l>
+                  <l>[blank]                      Dr <label>29</label>[blank] A. Kinsley Noble: Biology</l>
+                  <l>[blank]                       of animal courtship.</l>
                </lg>
             </div>
          </div>
@@ -1533,20 +1534,21 @@
             <lg>
                <l>[blank]</l>
                <l><head>NOV.—DECEMBER</head></l>
-               <l><label><date when-iso="1930-11-30">Su</date></label>[blank]</l>
-               <l><label>30</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-12-01">Mo</date></label>[blank]</l>
+               <l><label><date when-iso="1930-11-30">Su</date></label>[blank] Bldg 38      Thanksgiving</l>
+               <l><label>30</label>[blank] Mr. Crouch's funeral</l>
+               <l>[blank] Pinny out</l>
+               <l>[blank] cathedral pictures: Mrs. [Brewer?]</l>
+               <l><label><date when-iso="1930-12-01">Mo</date></label>[blank] worms. 4. AM—8</l>
                <l><label>1</label>[blank]</l>
                <l>[blank]</l>
-               <l><label><date when-iso="1930-12-02">Tu</date></label>[blank]</l>
-               <l><label>2</label>[blank]</l>
-               <l>[blank] bears go. Mole</l>
+               <l><label><date when-iso="1930-12-02">Tu</date></label>[blank] cleaned house</l>
+               <l><label>2</label>[blank] Montagne Street Branch</l>
+               <l>[blank] Annie Laurie &amp; Washington</l>
                <l><label><date when-iso="1930-12-03">We</date></label>[blank]</l>
-               <l><label>3</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-12-04">Th</date></label>[blank]</l>
-               <l><label>4</label>[blank]</l>
+               <l><label>3</label>[blank] —Silent Enemy: 3:30</l>
+               <l>[blank] Two Miles Down: Beebe w Eunis</l>
+               <l><label><date when-iso="1930-12-04">Th</date></label>[blank] <del>Badger: day off</del>                            8.15</l>
+               <l><label>4</label>[blank] Alyse   4 P.M. supper</l>
                <l>[blank]</l>
                <l><label><date when-iso="1930-12-05">Fr</date></label>[blank]</l>
                <l><label>5</label>[blank]</l>
@@ -1555,6 +1557,10 @@
                <l><label>6</label>[blank]</l>
                <l>[blank]</l>
             </lg>
+            <lg type="vertical">
+               <l n="v01">[vertical line]</l>
+            </lg>
+
          </div>
          <div type="image" facs="0099.jpg">
             <pb type="verso"/>
