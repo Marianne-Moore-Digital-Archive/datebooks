@@ -71,9 +71,7 @@
                   <l>[blank]</l>
                </lg>
                <lg type="vertical">
-                  <l n="v01">[vertical line] Ben Greet and the Ben Greet</l>
-                  <l n="v02">[vertical line] Players present Everyman</l>
-                  <l n="v03">[vertical line] Mon ev Dec 30 8-30</l>
+                  <l n="v01">[vertical line]&amp;lt;!desc: left margin, from bottom to top, left aligned.!&amp;gt; Ben Greet and the Ben Greet / Players present Everyman / Mon ev Dec 30 8-30</l>
                </lg>
             </div>
             <pb type="recto"/>
