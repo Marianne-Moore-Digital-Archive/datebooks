@@ -1550,12 +1550,12 @@
                <l><label><date when-iso="1930-12-04">Th</date></label>[blank] <del>Badger: day off</del>                            8.15</l>
                <l><label>4</label>[blank] Alyse   4 P.M. supper</l>
                <l>[blank]</l>
-               <l><label><date when-iso="1930-12-05">Fr</date></label>[blank]</l>
-               <l><label>5</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-12-06">Sa</date></label>[blank]</l>
-               <l><label>6</label>[blank]</l>
-               <l>[blank]</l>
+               <l><label><date when-iso="1930-12-05">Fr</date></label>[blank]     Badger: day off</l>
+               <l><label>5</label>[blank]  Byrd pictures 4 P.M.</l>
+               <l>[blank]       "            "        8.15</l>
+               <l><label><date when-iso="1930-12-06">Sa</date></label>[blank] 3.30 The Voyages of the early</l>
+               <l><label>6</label>[blank] :   whalemen: Chester Scott Howland</l>
+               <l>[blank]                               Howland.</l>
             </lg>
             <lg type="vertical">
                <l n="v01">[vertical line]</l>
