@@ -1644,10 +1644,10 @@
                   <l>[blank] indoors <label><date when-iso="1930-12-25">Th</date></label>[blank]</l>
                   <l>[blank]                 <label>25</label>[blank]</l>
                   <l>[blank]</l>
-                  <l>[blank]                 <label><date when-iso="1930-12-26">Fr</date></label>[blank]</l>
+                  <l>[blank]       "         <label><date when-iso="1930-12-26">Fr</date></label>[blank]</l>
                   <l>[blank]                 <label>26</label>[blank]</l>
                   <l>[blank]</l>
-                  <l>[blank]                 <label><date when-iso="1930-12-27">Sa</date></label>[blank]</l>
+                  <l>[blank]       "         <label><date when-iso="1930-12-27">Sa</date></label>[blank]</l>
                   <l>[blank]                 <label>27</label>[blank]</l>
                   <l>[blank]</l>
                </lg>
