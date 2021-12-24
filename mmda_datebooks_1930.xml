@@ -49,14 +49,14 @@
    </teiHeader>
    <text>
       <front>
-         <div facs="0001.jpg 0002.jpg">
+         <div facs="https://moorearchive.org/app/site/media/datebooks/1930/001.1930.front.cover.jpg">
             <pb type="cover"/>
             <head>1930 Calendar</head>
             <pb type="cover"/>
          </div>
       </front>
       <body>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/007.1930.01.01.to.01.04.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -105,7 +105,7 @@
                </lg>
             </div>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/008.1930.01.05.to.01.18.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -163,7 +163,7 @@
                </lg>
             </div>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/009.1930.01.19.to.02.01.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -221,7 +221,7 @@
                   <l>[blank]</l>
                </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/010.1930.02.02.to.02.15.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -279,7 +279,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/011.1930.02.16.to.03.01.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -337,7 +337,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/012.1930.03.02.to.03.15.jpg">
             <pb type="verso"/>
             <desc>[Page-level Description] &amp;lt;!Curly brackets enclose the text ... !&amp;gt;</desc><div type="entry">
                <lg>
@@ -396,7 +396,7 @@
                <l>[blank] 24 E 40</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/013.1930.03.16.to.03.29.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -461,7 +461,7 @@
                <l>[blank] Alex. Kirkland etc.</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/014.1930.03.30.to.04.12.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -525,7 +525,7 @@
                   <l>[blank]</l>
                </lg>
             </div>
-            <div type="image" facs="0099.jpg">
+            <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/015.1930.04.13.to.04.26.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -583,7 +583,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/016.1930.04.27.to.05.10.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -690,7 +690,7 @@
                   <l>[blank] George Carroll—S Lake City</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/017.1930.05.11.to.05.24.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -748,7 +748,7 @@
                <l>[blank] flints arrived.</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/018.1930.05.25.to.06.07.jpg">
             <pb type="verso"/>
             <desc>[Page-level Description]&amp;lt;!desc: In "Sa 31" "lost" and "race" are contained in parentheses.!&amp;gt; </desc><div type="entry">
                <lg>
@@ -809,7 +809,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/019.1930.06.08.to.06.14.jpg">
             <pb type="verso"/>
             <desc>[Page-level Description]&amp;lt;!desc: Curly brackets enclose the four lines beginning at entry "We 11".!&amp;gt;</desc><div type="entry">
                <lg>
@@ -867,7 +867,7 @@
                <l>[blank] (Mr[ ?] Eustis)</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/021.1930.06.22.to.07.05.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -925,7 +925,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/022.1930.07.06.to.07.19.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -983,7 +983,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/023.1930.07.20.to.08.02.jpg">
             <pb type="verso"/>
             <desc>[Page-level Description]&amp;lt;!desc: a large curly bracket encloses all the days of the week in the left margin.!&amp;gt;</desc><div type="entry">
                <lg>
@@ -1044,7 +1044,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/024.1930.08.03.to.08.16.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -1101,7 +1101,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/025.1930.08.17.to.08.30.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -1159,7 +1159,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/026.1930.08.31.to.09.13.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -1216,7 +1216,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/027.1930.09.14.to.09.27.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -1279,7 +1279,7 @@
                   <l n="v01">[vertical line]&amp;lt;!desc: left margin of recto from "Sa" to "21".!&amp;gt; Pygmies are the Ifé<note>On Ifè, see earlier note. MM seems to be recording information from the film "Africa Speaks."</note>  </l>
                </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/028.1930.09.28.to.10.11.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -1337,7 +1337,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/029.1930.10.12.to.10.25.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -1410,7 +1410,7 @@
                   <l n="v01">[vertical line]</l>
                </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/030.1930.10.26.to.11.08.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -1481,7 +1481,7 @@
                   <l n="v03">[vertical line]&amp;lt;!desc: up right margin from "8" to "We," left aligned with line above!&amp;gt; pineapple—"Single"</l>
                </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/031.1930.11.09.to.11.22.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -1543,7 +1543,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/032.1930.11.23.to.12.06.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -1603,7 +1603,7 @@
                <l>[blank]                               Howland.</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/033.1930.12.07.to.12.20.jpg">
             <pb type="verso"/>
             <desc>[Page-level Description] &amp;lt;!The top left corner of the page has a watery ink stainThree lines from "19" to "Sa!" are enclosed with a drawn left bottom corner matched by a square bracket to the right of the four lines from "Fr" to "Sa"!&amp;gt;</desc><div type="entry">
                <lg>
@@ -1668,7 +1668,7 @@
                <l n="v01">[vertical line]&amp;lt;!desc: up left margin from bottom corner to "DECEMBER"!&amp;gt; Italo-Amer. Soc 745  9th Ave.</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/034.1930.12.21.to.12.31.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
