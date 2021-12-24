@@ -719,37 +719,61 @@
                   <l n="v04">[vertical line] &amp;gt;!desc: left margin, left aligned with previous vertical line!&amp;gt; Khmer statuary</l>
                </lg>
             </div>
-         </div>
-         <pb type="recto"/>
-         <div type="entry">
-            <lg>
-               <l>[blank]</l>
-               <l><head>MARCH</head></l>
-               <l><label><date when-iso="1930-03-23">Su</date></label>[blank]</l>
-               <l><label>23</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-03-24">Mo</date></label>[blank]</l>
-               <l><label>24</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-03-25">Tu</date></label>[blank]</l>
-               <l><label>25</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-03-26">We</date></label>[blank] Mary Owens</l>
-               <l><label>26</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-03-27">Th</date></label>[blank] The Rivals</l>
-               <l><label>27</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-03-28">Fr</date></label>[blank]</l>
-               <l><label>28</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-03-29">Sa</date></label>[blank] Badger</l>
-               <l><label>29</label>[blank] A month in the  Country</l>
-               <l>[blank] Douglas Dumbrille</l>
-               <l>[blank] Alex. Kirkland etc.</l>
-            </lg>
-         </div>
-         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/014.1930.03.30.to.04.12.jpg">
+            </div>
+            <pb type="recto"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l><head>MARCH</head></l>
+                  <l><label><date when-iso="1930-03-23">Su</date></label>[blank]</l>
+                  <l><label>23</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-03-24">Mo</date></label>[blank]</l>
+                  <l><label>24</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-03-25">Tu</date></label>[blank]</l>
+                  <l><label>25</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-03-26">We</date></label>[blank] Mary Owens</l>
+                  <l><label>26</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-03-27">Th</date></label>[blank] The Rivals</l>
+                  <l><label>27</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-03-28">Fr</date></label>[blank]</l>
+                  <l><label>28</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-03-29">Sa</date></label>[blank] Badger</l>
+                  <l><label>29</label>[blank] A month in the  Country</l>
+                  <l>[blank] Douglas Dumbrille</l>
+                  <l>[blank] Alex. Kirkland etc.</l>
+               </lg>
+            </div>
+            <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/014.1930.03.30.to.04.12.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -758,21 +782,45 @@
                   <l><label><date when-iso="1930-03-30">Su</date></label>[blank]</l>
                   <l><label>30</label>[blank]</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-03-31">Mo</date></label>[blank] wrote Mr. Saintsbury</l>
                   <l><label>31</label>[blank]         Mrs. Luhan</l>
                   <l>[blank]    Dr Rogers</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-04-01">Tu</date></label>[blank] Badger 2 P.M.</l>
                   <l><label>1</label>[blank] Ford &amp; Lincoln delivery</l>
                   <l>[blank]                              Bldg</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-04-02">We</date></label>[blank] work on green silk      dress</l>
                   <l><label>2</label>[blank] Dr. G. Campbell. Morgan</l>
                   <l>[blank] "Witness"</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-04-03">Th</date></label>[blank]</l>
                   <l><label>3</label>[blank] cleaned the house</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-04-04">Fr</date></label>[blank] Mr. and Mrs Burke</l>
                   <l><label>4</label>[blank]                               8.30</l>
                   <l>[blank] Badger 12.45</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-04-05">Sa</date></label>[blank] </l>
                   <l><label>5</label>[blank] City Park Library</l>
                   <l>[blank]</l>
@@ -793,21 +841,45 @@
                   <l><label><date when-iso="1930-04-06">Su</date></label>[blank]</l>
                   <l><label>6</label>[blank]</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-04-07">Mo</date></label>[blank] Dr Rogers    177 E 71</l>
                   <l><label>7</label>[blank] 2.15—to Crestwood</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-04-08">Tu</date></label>[blank] Dr Stupp</l>
                   <l><label>8</label>[blank]</l>
                   <l>[blank] </l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-04-09">We</date></label>[blank]</l>
                   <l><label>9</label>[blank]</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-04-10">Th</date></label>[blank] C. returned fr Boston</l>
                   <l><label>10</label>[blank] supper for Scouts</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-04-11">Fr</date></label>[blank]</l>
                   <l><label>11</label>[blank]</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-04-12">Sa</date></label>[blank] Scout party</l>
                   <l><label>12</label>[blank]</l>
                   <l>[blank]</l>
@@ -822,18 +894,38 @@
                   <l><label><date when-iso="1930-04-13">Su</date></label>[blank]</l>
                   <l><label>13</label>[blank]</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-04-14">Mo</date></label>[blank] returned fr Crestwood</l>
                   <l><label>14</label>[blank] cleaned     house</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-04-15">Tu</date></label>[blank] P.M. Loesers : Woolworths</l>
                   <l><label>15</label>[blank]</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-04-16">We</date></label>[blank] Circus 1.45.   Mole cleaned</l>
                   <l><label>16</label>[blank] Dr. G Campbell Morgan 7.45</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-04-17">Th</date></label>[blank] Disraeli    11</l>
                   <l><label>17</label>[blank] Anna Christie   2.20</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-04-18">Fr</date></label>[blank] Frances Fletcher 10.30</l>
                   <l><label>18</label>[blank] Badger &amp; Constance  5.30</l>
                   <l>[blank] Hospital.</l>
@@ -842,36 +934,60 @@
                   <l>[blank]</l>
                </lg>
             </div>
-         </div>
-         <pb type="recto"/>
-         <div type="entry">
-            <lg>
-               <l>[blank]</l>
-               <l><head>APRIL</head></l>
-               <l><label><date when-iso="1930-04-20">Su</date></label>[blank] Univ. Heights Church 10.45</l>
-               <l><label>20</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-04-21">Mo</date></label>[blank] Badger to Atlantic City</l>
-               <l><label>21</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-04-22">Tu</date></label>[blank]</l>
-               <l><label>22</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-04-23">We</date></label>[blank] Eunice 3 P.M.</l>
-               <l><label>23</label>[blank] Dr. Morgan: the reign of</l>
-               <l>[blank]                                     Christ</l>
-               <l><label><date when-iso="1930-04-24">Th</date></label>[blank]               The Church's emprise</l>
-               <l><label>24</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-04-25">Fr</date></label>[blank] B. returned fr Atlantic </l>
-               <l><label>25</label>[blank]                                       C.</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-04-26">Sa</date></label>[blank] Badger 1.15</l>
-               <l><label>26</label>[blank]</l>
-               <l>[blank]</l>
-            </lg>
-         </div>
-         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/016.1930.04.27.to.05.10.jpg">
+            </div>
+            <pb type="recto"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l><head>APRIL</head></l>
+                  <l><label><date when-iso="1930-04-20">Su</date></label>[blank] Univ. Heights Church 10.45</l>
+                  <l><label>20</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-04-21">Mo</date></label>[blank] Badger to Atlantic City</l>
+                  <l><label>21</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-04-22">Tu</date></label>[blank]</l>
+                  <l><label>22</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-04-23">We</date></label>[blank] Eunice 3 P.M.</l>
+                  <l><label>23</label>[blank] Dr. Morgan: the reign of</l>
+                  <l>[blank]                                     Christ</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-04-24">Th</date></label>[blank]               The Church's emprise</l>
+                  <l><label>24</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-04-25">Fr</date></label>[blank] B. returned fr Atlantic </l>
+                  <l><label>25</label>[blank]                                       C.</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-04-26">Sa</date></label>[blank] Badger 1.15</l>
+                  <l><label>26</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/016.1930.04.27.to.05.10.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -924,15 +1040,15 @@
                   <l>[blank]</l>
                </lg>
             </div>
-         </div>
-         <pb type="recto"/>
-         <div type="entry">
-            <lg>
-               <l>[blank]</l>
-               <l>[blank] Bldg. 38 <head>MAY</head>[blank]</l>
-               <l>[blank]<label><date when-iso="1930-05-04">Su</date></label>[blank]</l>
-               <l>[blank]<label>4</label>[blank]</l>
-               <l>[blank]</l>
+            </div>
+            <pb type="recto"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank] Bldg. 38 <head>MAY</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1930-05-04">Su</date></label>[blank]</l>
+                  <l>[blank]<label>4</label>[blank]</l>
+                  <l>[blank]</l>
                </lg>
             </div>
             <div type="entry">
@@ -987,21 +1103,45 @@
                   <l><label><date when-iso="1930-05-11">Su</date></label>[blank]</l>
                   <l><label>11</label>[blank] Bldg 38   9. A.M.</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-05-12">Mo</date></label>[blank]</l>
                   <l><label>12</label>[blank]</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-05-13">Tu</date></label>[blank] Mary Owens</l>
                   <l><label>13</label>[blank]</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-05-14">We</date></label>[blank] 8 P.M.  Dr Morgan</l>
                   <l><label>14</label>[blank]    the            word</l>
                   <l>[blank]  Badger    to   the green Pasturs<note>The Green Pastures is a play that opened in New York City in 1930.</note></l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-05-15">Th</date></label>[blank] drove in the car </l>
                   <l><label>15</label>[blank] to 142th Street</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-05-16">Fr</date></label>[blank]</l>
                   <l><label>16</label>[blank]</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-05-17">Sa</date></label>[blank] Badger saiing</l>
                   <l><label>17</label>[blank] w. Mrs. Smith</l>
                   <l>[blank] Worms 3-4 in [crurnation?]</l>
@@ -1016,27 +1156,51 @@
                <l><label><date when-iso="1930-05-18">Su</date></label>[blank] Bldg 38</l>
                <l><label>18</label>[blank]</l>
                <l>[blank]</l>
-               <l><label><date when-iso="1930-05-19">Mo</date></label>[blank]</l>
-               <l><label>19</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-05-20">Tu</date></label>[blank] Badger at home,</l>
-               <l><label>20</label>[blank] Anna to clean: Good talk</l>
-               <l>[blank] </l>
-               <l><label><date when-iso="1930-05-21">We</date></label>[blank] Miss [Joe an did air--?]</l>
-               <l><label>21</label>[blank] Mole mailed letter</l>
-               <l>[blank] complaining of the worms</l>
-               <l><label><date when-iso="1930-05-22">Th</date></label>[blank] Badger at banquet overnight</l>
-               <l><label>22</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-05-23">Fr</date></label>[blank] wrote Mr. Saintsbury : Alyse.</l>
-               <l><label>23</label>[blank] B. spoke to Scouts</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-05-24">Sa</date></label>[blank] B. sailing w Mr Smith</l>
-               <l><label>24</label>[blank] Reveille<note>Apparently, the name of JWM's boat, or the boat on which he sailed.</note> won.</l>
-               <l>[blank] flints arrived.</l>
-            </lg>
-         </div>
-         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/018.1930.05.25.to.06.07.jpg">
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-05-19">Mo</date></label>[blank]</l>
+                  <l><label>19</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-05-20">Tu</date></label>[blank] Badger at home,</l>
+                  <l><label>20</label>[blank] Anna to clean: Good talk</l>
+                  <l>[blank] </l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-05-21">We</date></label>[blank] Miss [Joe an did air--?]</l>
+                  <l><label>21</label>[blank] Mole mailed letter</l>
+                  <l>[blank] complaining of the worms</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-05-22">Th</date></label>[blank] Badger at banquet overnight</l>
+                  <l><label>22</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-05-23">Fr</date></label>[blank] wrote Mr. Saintsbury : Alyse.</l>
+                  <l><label>23</label>[blank] B. spoke to Scouts</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-05-24">Sa</date></label>[blank] B. sailing w Mr Smith</l>
+                  <l><label>24</label>[blank] Reveille<note>Apparently, the name of JWM's boat, or the boat on which he sailed.</note> won.</l>
+                  <l>[blank] flints arrived.</l>
+               </lg>
+            </div>
+            <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/018.1930.05.25.to.06.07.jpg">
             <pb type="verso"/>
             <desc>[Page-level Description]&amp;lt;!desc: In "Sa 31" "lost" and "race" are contained in parentheses.!&amp;gt; </desc><div type="entry">
                <lg>
@@ -1045,21 +1209,45 @@
                   <l><label><date when-iso="1930-05-25">Su</date></label>[blank] rained—did not</l>
                   <l><label>25</label>[blank] go to Bldg. 38</l>
                   <l>[blank] boys &amp; girls at church next door</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-05-26">Mo</date></label>[blank] Cruise to South Seas </l>
                   <l><label>26</label>[blank] Macys</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-05-27">Tu</date></label>[blank] rode out w Badger</l>
                   <l><label>27</label>[blank]</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-05-28">We</date></label>[blank]  to Viking Press for </l>
                   <l><label>28</label>[blank] Noguchi essays.</l>
                   <l>[blank] B many pictures"—Illus News</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-05-29">Th</date></label>[blank]</l>
                   <l><label>29</label>[blank]</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-05-30">Fr</date></label>[blank] Badger sailing—(won)</l>
                   <l><label>30</label>[blank]</l>
                   <l>[blank] Mr. Jordan nailed floor-boards</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-05-31">Sa</date></label>[blank]    "                 "           lost</l>
                   <l><label>31</label>[blank]                                    race</l>
                   <l>[blank]</l>
@@ -1068,36 +1256,60 @@
                   <l n="v01">[vertical line] Badger to green Pastures<note>See earlier note.</note> w the Owenses</l>
                </lg>
             </div>
-         </div>
-         <pb type="recto"/>
-         <div type="entry">
-            <lg>
-               <l>[blank]</l>
-               <l><head>JUNE</head></l>
-               <l><label><date when-iso="1930-06-01">Su</date></label>[blank] Bldg. 38. He that trusteth</l>
-               <l><label>1</label>[blank] in god need not make haste</l>
-               <l>[blank] Hospital.—Memorial Days service</l>
-               <l><label><date when-iso="1930-06-02">Mo</date></label>[blank] with gun squad &amp; trumpeter</l>
-               <l><label>2</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-06-03">Tu</date></label>[blank]</l>
-               <l><label>3</label>[blank]</l>
-               <l>[blank] </l>
-               <l><label><date when-iso="1930-06-04">We</date></label>[blank]</l>
-               <l><label>4</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-06-05">Th</date></label>[blank]</l>
-               <l><label>5</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-06-06">Fr</date></label>[blank]</l>
-               <l><label>6</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-06-07">Sa</date></label>[blank]</l>
-               <l><label>7</label>[blank] did not sail</l>
-               <l>[blank]</l>
-            </lg>
-         </div>
-         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/019.1930.06.08.to.06.14.jpg">
+            </div>
+            <pb type="recto"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l><head>JUNE</head></l>
+                  <l><label><date when-iso="1930-06-01">Su</date></label>[blank] Bldg. 38. He that trusteth</l>
+                  <l><label>1</label>[blank] in god need not make haste</l>
+                  <l>[blank] Hospital.—Memorial Days service</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-06-02">Mo</date></label>[blank] with gun squad &amp; trumpeter</l>
+                  <l><label>2</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-06-03">Tu</date></label>[blank]</l>
+                  <l><label>3</label>[blank]</l>
+                  <l>[blank] </l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-06-04">We</date></label>[blank]</l>
+                  <l><label>4</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-06-05">Th</date></label>[blank]</l>
+                  <l><label>5</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-06-06">Fr</date></label>[blank]</l>
+                  <l><label>6</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-06-07">Sa</date></label>[blank]</l>
+                  <l><label>7</label>[blank] did not sail</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/019.1930.06.08.to.06.14.jpg">
             <pb type="verso"/>
             <desc>[Page-level Description]&amp;lt;!desc: Curly brackets enclose the four lines beginning at entry "We 11".!&amp;gt;</desc><div type="entry">
                <lg>
@@ -1106,21 +1318,45 @@
                   <l><label><date when-iso="1930-06-08">Su</date></label>[blank]</l>
                   <l><label>8</label>[blank] Bldg 38: The Flag</l>
                   <l>[blank] Silas Marner</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-06-09">Mo</date></label>[blank]</l>
                   <l><label>9</label>[blank]</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-06-10">Tu</date></label>[blank]</l>
                   <l><label>10</label>[blank]</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-06-11">We</date></label>[blank] Hair washed</l>
                   <l><label>11</label>[blank]    Killing the Killer</l>
                   <l>[blank] Pub. Library—Yachting</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-06-12">Th</date></label>[blank] The Miss Hunts   8. PM</l>
                   <l><label>12</label>[blank]</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-06-13">Fr</date></label>[blank]</l>
                   <l><label>13</label>[blank] Mary Owens</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-06-14">Sa</date></label>[blank]    Badger did not sail</l>
                   <l><label>14</label>[blank] Longear's<note>Longear is a nickname for MWM, who is also called Bunny.</note> blue silk dress</l>
                   <l>[blank]</l>
