@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?><TEI xmlns="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -58,7 +55,7 @@
          </div>
       </front>
       <body>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/002.1931.01.01.to.01.03.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -125,7 +122,7 @@
                </lg>
             </div>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/003.1931.01.04.to.01.17.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -232,7 +229,7 @@
                </lg>
             </div>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/004.1931.01.18.to.01.31.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -339,7 +336,7 @@
                   <l>[blank]</l>
                </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/005.1931.02.01.to.02.14.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -445,7 +442,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/006.1931.02.15.to.02.28.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -551,7 +548,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/007.1931.03.01.to.03.14.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -657,7 +654,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/008.1931.03.15.to.03.28.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -763,7 +760,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/009.1931.03.29.to.04.11.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -869,7 +866,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/010.1931.04.12.to.04.25.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -975,7 +972,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/011.1931.04.26.to.05.09.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -1081,7 +1078,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/012.1931.05.10.to.05.23.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -1187,7 +1184,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/013.1931.05.24.to.06.06.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -1293,7 +1290,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/014.1931.06.07.to.06.13.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -1399,7 +1396,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/016.1931.06.21.to.07.04.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -1505,7 +1502,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/017.1931.07.05.to.07.18.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -1611,7 +1608,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/018.1931.07.19.to.08.01.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -1717,7 +1714,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/019.1931.08.02.to.08.15.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -1823,7 +1820,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/020.1931.08.16.to.08.29.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -1929,7 +1926,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/021.1931.08.30.to.09.12.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -2035,7 +2032,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/022.1931.09.13.to.09.26.jpgg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -2141,7 +2138,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/023.1931.09.27.to.10.10.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -2247,7 +2244,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/024.1931.10.11.to.10.24.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -2353,7 +2350,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/025.1931.10.25.to.11.07.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -2459,7 +2456,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/026.1931.11.08.to.11.21.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -2565,7 +2562,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/027.1931.11.22.to.12.05.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -2671,7 +2668,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/028.1931.12.06.to.12.19.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -2777,7 +2774,7 @@
                <l>[blank]</l>
             </lg>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/029.1931.12.20.to.12.31.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -2869,7 +2866,7 @@
                </lg>
             </div>
          </div>
-         <div type="image" facs="0099.jpg">
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1931/030.1931.notes.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
