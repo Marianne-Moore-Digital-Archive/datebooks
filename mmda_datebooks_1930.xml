@@ -500,36 +500,60 @@
                   <l>[blank] painted windowsills</l>
                </lg>
             </div>
-         </div>
-         <pb type="recto"/>
-         <div type="entry">
-            <lg>
-               <l>[blank]</l>
-               <l><head>FEB.—MARCH</head></l>
-               <l><label><date when-iso="1930-02-23">Su</date></label>[blank]</l>
-               <l><label>23</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-02-24">Mo</date></label>[blank] to Jansen's for shoes</l>
-               <l><label>24</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-02-25">Tu</date></label>[blank] B. for luncheon</l>
-               <l><label>25</label>[blank]</l>
+            </div>
+            <pb type="recto"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l><head>FEB.—MARCH</head></l>
+                  <l><label><date when-iso="1930-02-23">Su</date></label>[blank]</l>
+                  <l><label>23</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-02-24">Mo</date></label>[blank] to Jansen's for shoes</l>
+                  <l><label>24</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-02-25">Tu</date></label>[blank] B. for luncheon</l>
+                  <l><label>25</label>[blank]</l>
                <l>[blank] </l>
-               <l><label><date when-iso="1930-02-26">We</date></label>[blank] Anne to clean</l>
-               <l><label>26</label>[blank] </l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-02-27">Th</date></label>[blank]</l>
-               <l><label>27</label>[blank] B: lunch &amp; overnight</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-02-28">Fr</date></label>[blank] wrote Noguchi</l>
-               <l><label>28</label>[blank] Badger: sailing lecture</l>
-               <l>[blank] &amp; overnight</l>
-               <l><label><date when-iso="1930-03-01">Sa</date></label>[blank] Mary W. Owens</l>
-               <l><label>1</label>[blank]</l>
-               <l>[blank]</l>
-            </lg>
-         </div>
-         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/012.1930.03.02.to.03.15.jpg">
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-02-26">We</date></label>[blank] Anne to clean</l>
+                  <l><label>26</label>[blank] </l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-02-27">Th</date></label>[blank]</l>
+                  <l><label>27</label>[blank] B: lunch &amp; overnight</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-02-28">Fr</date></label>[blank] wrote Noguchi</l>
+                  <l><label>28</label>[blank] Badger: sailing lecture</l>
+                  <l>[blank] &amp; overnight</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-03-01">Sa</date></label>[blank] Mary W. Owens</l>
+                  <l><label>1</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/012.1930.03.02.to.03.15.jpg">
             <pb type="verso"/>
             <desc>[Page-level Description] &amp;lt;!Curly brackets enclose the text ... !&amp;gt;</desc><div type="entry">
                <lg>
@@ -538,21 +562,45 @@
                   <l><label><date when-iso="1930-03-02">Su</date></label>[blank]</l>
                   <l><label>2</label>[blank]</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-03-03">Mo</date></label>[blank]</l>
                   <l><label>3</label>[blank]</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-03-04">Tu</date></label>[blank]</l>
                   <l><label>4</label>[blank]</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-03-05">We</date></label>[blank] Badger for lunch—</l>
                   <l><label>5</label>[blank] uniform shop</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-03-06">Th</date></label>[blank] funeral of little boy</l>
                   <l><label>6</label>[blank]</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-03-07">Fr</date></label>[blank] B.         sailing lecture</l>
                   <l><label>7</label>[blank] </l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-03-08">Sa</date></label>[blank] Dr. J. Timothy Stone</l>
                   <l><label>8</label>[blank] [at?] A M   7.45</l>
                   <l>[blank] Sun. Mar 9</l>
@@ -567,28 +615,52 @@
                <l><label><date when-iso="1930-03-09">Su</date></label>[blank]</l>
                <l><label>9</label>[blank]</l>
                <l>[blank]</l>
-               <l><label><date when-iso="1930-03-10">Mo</date></label>[blank]</l>
-               <l><label>10</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-03-11">Tu</date></label>[blank] B: Tuesday for lunch</l>
-               <l><label>11</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-03-12">We</date></label>[blank] work on peacock dress</l>
-               <l><label>12</label>[blank]</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-03-13">Th</date></label>[blank] Capt. Wells' funeral:</l>
-               <l><label>13</label>[blank]    uniform shop</l>
-               <l>[blank] income tax to A &amp; S.</l>
-               <l>[blank] called on Mary Owens; got Peach whisker</l>
-               <l><label><date when-iso="1930-03-14">Fr</date></label>[blank]                Badger: no sailing lecture</l>
-               <l><label>14</label>[blank] mended my black coat</l>
-               <l>[blank]</l>
-               <l><label><date when-iso="1930-03-15">Sa</date></label>[blank]</l>
-               <l><label>15</label>[blank] Mrs. Draper—[8?] P.M</l>
-               <l>[blank] 24 E 40</l>
-            </lg>
-         </div>
-         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/013.1930.03.16.to.03.29.jpg">
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-03-10">Mo</date></label>[blank]</l>
+                  <l><label>10</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-03-11">Tu</date></label>[blank] B: Tuesday for lunch</l>
+                  <l><label>11</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-03-12">We</date></label>[blank] work on peacock dress</l>
+                  <l><label>12</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-03-13">Th</date></label>[blank] Capt. Wells' funeral:</l>
+                  <l><label>13</label>[blank]    uniform shop</l>
+                  <l>[blank] income tax to A &amp; S.</l>
+                  <l>[blank] called on Mary Owens; got Peach whisker</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-03-14">Fr</date></label>[blank]                Badger: no sailing lecture</l>
+                  <l><label>14</label>[blank] mended my black coat</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l><label><date when-iso="1930-03-15">Sa</date></label>[blank]</l>
+                  <l><label>15</label>[blank] Mrs. Draper—[8?] P.M</l>
+                  <l>[blank] 24 E 40</l>
+               </lg>
+            </div>
+            <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1930/013.1930.03.16.to.03.29.jpg">
             <pb type="verso"/>
             <div type="entry">
                <lg>
@@ -597,21 +669,45 @@
                   <l><label><date when-iso="1930-03-16">Su</date></label>[blank]</l>
                   <l><label>16</label>[blank] :</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-03-17">Mo</date></label>[blank] Knox, Macy,— Balch, Price</l>
                   <l><label>17</label>[blank] P.M. cleaned the house</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-03-18">Tu</date></label>[blank] corrected my Egoist book</l>
                   <l><label>18</label>[blank]</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-03-19">We</date></label>[blank] Mei Lan-Fang</l>
                   <l><label>19</label>[blank] Miss Soo Yong</l>
                   <l>[blank] General. Liu Lien-Yung</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-03-20">Th</date></label>[blank] Wrote Ezra</l>
                   <l><label>20</label>[blank]</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-03-21">Fr</date></label>[blank] Badger. Sailing lecture</l>
                   <l><label>21</label>[blank]        hair washed</l>
                   <l>[blank] Mole mended her coat</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-03-22">Sa</date></label>[blank] Badger till 10.30</l>
                   <l><label>22</label>[blank] copied ms.</l>
                   <l>[blank]</l>
