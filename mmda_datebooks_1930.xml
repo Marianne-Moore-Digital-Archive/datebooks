@@ -84,21 +84,45 @@
                   <l><label><date when-iso="1929-12-29">Su</date></label>[blank]</l>
                   <l>[blank]</l>
                   <l>[blank] Dec 30</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1929-12-30">Mo</date></label>[blank] <del>Eve</del> Jonathan Leonard</l>
                   <l>[blank] _______________</l>
                   <l>[blank] (Everyman: Constance</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1929-12-31">Tu</date></label>[blank] Evers Roberts: Badger</l>
                   <l>[blank]</l>
                   <l>[blank] hears gr. Mole</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-01-01">We</date></label>[blank]                 green dress</l>
                   <l><label>1</label>[blank] letters</l>
                   <l>[blank]                    "               "</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-01-02">Th</date></label>[blank] "</l>
                   <l><label>2</label>[blank]     "                 "</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-01-03">Fr</date></label>[blank]</l>
                   <l><label>3</label>[blank]      "                 "</l>
                   <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
                   <l><label><date when-iso="1930-01-04">Sa</date></label>[blank]</l>
                   <l><label>4</label>[blank]       "                   "</l>
                   <l>[blank]</l>
