@@ -1,0 +1,2893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://moorearchive.org/custom/tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="http://moorearchive.org/custom/test.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1932 Datebook</title>
+            <author>
+               <persName ref="#mm">Marianne Moore</persName>
+            </author>
+            <editor>Luke Carson</editor>
+            <respStmt>
+               <resp>1932 Datebook</resp>
+               <persName>Luke Carson</persName>
+            </respStmt>
+            <respStmt>
+               <resp>transcription</resp>
+               <persName>name name</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Marianne Moore Digital Archive</orgName>
+            </publisher>
+            <date>12-2021</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p><orgName>Rosenbach Museum and Library</orgName>,<placeName>Philadelphia</placeName></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Project Description</p>
+         </projectDesc>
+         <editorialDecl>
+            <correction>
+               <p>Obvious</p>
+            </correction>
+            <normalization>
+               <p>Original spelling is retained.</p>
+            </normalization>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <list>
+            <item>
+               <date when="2021-12-24">24 DECEMBER 2021</date>1932 Datebook</item>
+         </list>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div facs="https://moorearchive.org/app/site/media/datebooks/1932/001.1932.front.cover.jpg">
+            <pb type="cover"/>
+            <head>1932 Calendar</head>
+            <pb type="cover"/>
+         </div>
+      </front>
+      <body>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/003.1932.01.01.to.01.02.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]</l>
+                  <l>[blank]</l>
+                  <l>[blank]</l>
+                  <l>[blank]</l>
+                  <l>[blank]</l>
+                  <l>[blank]</l>
+                  <l>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+               <lg type="vertical">
+                  <l n="v01">[vertical line]</l>
+                  <l n="v02">[vertical line]</l>
+                  <l n="v03">[vertical line]</l>
+               </lg>
+            </div>
+            <pb type="recto"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>JANUARY</head></l>
+                  <l>[blank]<label><date when-iso="1931-12-27">Su</date></label>[blank]</l>
+                  <l>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1931-12-28">Mo</date></label>[blank]</l>
+                  <l>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1931-12-29">Tu</date></label>[blank]</l>
+                  <l>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1931-12-30">We</date></label>[blank]</l>
+                  <l>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1931-12-31">Th</date></label>[blank]</l>
+                  <l>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-01-01">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>1</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-01-02">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>2</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+         </div>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/004.1932.01.03.to.01.16.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>JANUARY</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-01-03">Su</date></label>[blank]</l>
+                  <l>[blank]<label>3</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-01-04">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>4</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-01-05">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>5</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-01-06">We</date></label>[blank]</l>
+                  <l>[blank]<label>6</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-01-07">Th</date></label>[blank]</l>
+                  <l>[blank]<label>7</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-01-08">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>8</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-01-09">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>9</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <pb type="recto"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>JANUARY</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-01-10">Su</date></label>[blank]</l>
+                  <l>[blank]<label>10</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-01-11">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>11</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-01-12">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>12</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-01-13">We</date></label>[blank]</l>
+                  <l>[blank]<label>13</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-01-14">Th</date></label>[blank]</l>
+                  <l>[blank]<label>14</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-01-15">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>15</label>[blank]</l>
+                  <l>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-01-16">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>16</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+         </div>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/005.1932.01.17.to.01.30.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>JANUARY</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-01-17">Su</date></label>[blank]</l>
+                  <l>[blank]<label>17</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-01-18">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>18</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-01-19">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>19</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-01-20">We</date></label>[blank]</l>
+                  <l>[blank]<label>20</label>[blank]</l>
+                  <l>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-01-21">Th</date></label>[blank]</l>
+                  <l>[blank]<label>21</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-01-22">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>22</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-01-23">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>23</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            </div>
+            <pb type="recto"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>JANUARY</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-01-24">Su</date></label>[blank]</l>
+                  <l>[blank]<label>24</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+         <div type="entry">
+            <lg>
+                  <l>[blank]<label><date when-iso="1932-01-25">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>25</label>[blank]</l>
+                  <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+                  <l>[blank]<label><date when-iso="1932-01-26">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>26</label>[blank]</l>
+                  <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+                  <l>[blank]<label><date when-iso="1932-01-27">We</date></label>[blank]</l>
+                  <l>[blank]<label>27</label>[blank]</l>
+                  <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+                  <l>[blank]<label><date when-iso="1932-01-28">Th</date></label>[blank]</l>
+                  <l>[blank]<label>28</label>[blank]</l>
+                  <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+                  <l>[blank]<label><date when-iso="1932-01-29">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>29</label>[blank]</l>
+                  <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+                  <l>[blank]<label><date when-iso="1932-01-30">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>30</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+         </div>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/006.1932.01.31.to.02.13.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>JAN.—FEBRUARY</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-01-31">Su</date></label>[blank]</l>
+                  <l>[blank]<label>31</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-02-01">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>1</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-02-02">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>2</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-02-03">We</date></label>[blank]</l>
+                  <l>[blank]<label>3</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-02-04">Th</date></label>[blank]</l>
+                  <l>[blank]<label>4</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-02-05">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>5</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-02-06">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>6</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+         </div>
+         <pb type="recto"/>
+         <div type="entry">
+            <lg>
+               <l>[blank]</l>
+               <l>[blank]<head>FEBRUARY</head>[blank]</l>
+               <l>[blank]<label><date when-iso="1932-02-07">Su</date></label>[blank]</l>
+               <l>[blank]<label>7</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-02-08">Mo</date></label>[blank]</l>
+               <l>[blank]<label>08</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-02-09">Tu</date></label>[blank]</l>
+               <l>[blank]<label>9</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-02-10">We</date></label>[blank]</l>
+               <l>[blank]<label>10</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-02-11">Th</date></label>[blank]</l>
+               <l>[blank]<label>11</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-02-12">Fr</date></label>[blank]</l>
+               <l>[blank]<label>12</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-02-13">Sa</date></label>[blank]</l>
+               <l>[blank]<label>13</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/007.1932.02.14.to.02.27.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>FEBRUARY</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-02-14">Su</date></label>[blank]</l>
+                  <l>[blank]<label>14</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-02-15">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>15</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-02-16">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>16</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-02-17">We</date></label>[blank]</l>
+                  <l>[blank]<label>17</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-02-18">Th</date></label>[blank]</l>
+                  <l>[blank]<label>18</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-02-19">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>19</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-02-20">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>20</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+         </div>
+         <pb type="recto"/>
+         <div type="entry">
+            <lg>
+               <l>[blank]</l>
+               <l>[blank]<head>FEBRUARY</head>[blank]</l>
+               <l>[blank]<label><date when-iso="1932-02-21">Su</date></label>[blank]</l>
+               <l>[blank]<label>21</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-02-22">Mo</date></label>[blank]</l>
+               <l>[blank]<label>22</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-02-23">Tu</date></label>[blank]</l>
+               <l>[blank]<label>23</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-02-24">We</date></label>[blank]</l>
+               <l>[blank]<label>24</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-02-25">Th</date></label>[blank]</l>
+               <l>[blank]<label>25</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-02-26">Fr</date></label>[blank]</l>
+               <l>[blank]<label>26</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-02-27">Sa</date></label>[blank]</l>
+               <l>[blank]<label>27</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/008.1932.02.28.to.03.12.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>FEB.—MARCH</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-02-28">Su</date></label>[blank]</l>
+                  <l>[blank]<label>28</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-03-01">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>1</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-03-02">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>2</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-03-03">We</date></label>[blank]</l>
+                  <l>[blank]<label>3</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-03-04">Th</date></label>[blank]</l>
+                  <l>[blank]<label>4</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-03-04">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>4</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-03-05">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>5</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+         </div>
+         <pb type="recto"/>
+         <div type="entry">
+            <lg>
+               <l>[blank]</l>
+               <l>[blank]<head>MARCH</head>[blank]</l>
+               <l>[blank]<label><date when-iso="1932-03-06">Su</date></label>[blank]</l>
+               <l>[blank]<label>6</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-03-07">Mo</date></label>[blank]</l>
+               <l>[blank]<label>7</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-03-08">Tu</date></label>[blank]</l>
+               <l>[blank]<label>8</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-03-09">We</date></label>[blank]</l>
+               <l>[blank]<label>09</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-03-10">Th</date></label>[blank]</l>
+               <l>[blank]<label>10</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-03-11">Fr</date></label>[blank]</l>
+               <l>[blank]<label>11</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-03-12">Sa</date></label>[blank]</l>
+               <l>[blank]<label>12</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/009.1932.03.13.to.03.26.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>MARCH</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-03-13">Su</date></label>[blank]</l>
+                  <l>[blank]<label>13</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-03-14">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>14</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-03-15">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>15</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-03-16">We</date></label>[blank]</l>
+                  <l>[blank]<label>16</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-03-17">Th</date></label>[blank]</l>
+                  <l>[blank]<label>17</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-03-18">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>18</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-03-19">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>19</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+         </div>
+         <pb type="recto"/>
+         <div type="entry">
+            <lg>
+               <l>[blank]</l>
+               <l>[blank]<head>MARCH</head>[blank]</l>
+               <l>[blank]<label><date when-iso="1932-03-20">Su</date></label>[blank]</l>
+               <l>[blank]<label>20</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-03-21">Mo</date></label>[blank]</l>
+               <l>[blank]<label>21</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-03-22">Tu</date></label>[blank]</l>
+               <l>[blank]<label>22</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-03-23">We</date></label>[blank]</l>
+               <l>[blank]<label>23</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-03-24">Th</date></label>[blank]</l>
+               <l>[blank]<label>24</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-03-25">Fr</date></label>[blank]</l>
+               <l>[blank]<label>25</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-03-26">Sa</date></label>[blank]</l>
+               <l>[blank]<label>26</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/010.1932.03.27.to.04.09.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>MARCH—APRIL</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-03-27">Su</date></label>[blank]</l>
+                  <l>[blank]<label>27</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-03-28">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>28</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-03-29">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>29</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-03-30">We</date></label>[blank]</l>
+                  <l>[blank]<label>2</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-03-31">Th</date></label>[blank]</l>
+                  <l>[blank]<label>3</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-04-01">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>1</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-04-02">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>2</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+         </div>
+         <pb type="recto"/>
+         <div type="entry">
+            <lg>
+               <l>[blank]</l>
+               <l>[blank]<head>APRIL</head>[blank]</l>
+               <l>[blank]<label><date when-iso="1932-04-03">Su</date></label>[blank]</l>
+               <l>[blank]<label>3</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-04-04">Mo</date></label>[blank]</l>
+               <l>[blank]<label>4</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-04-05">Tu</date></label>[blank]</l>
+               <l>[blank]<label>5</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-04-06">We</date></label>[blank]</l>
+               <l>[blank]<label>6</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-04-07">Th</date></label>[blank]</l>
+               <l>[blank]<label>7</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-04-08">Fr</date></label>[blank]</l>
+               <l>[blank]<label>8</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-04-09">Sa</date></label>[blank]</l>
+               <l>[blank]<label>9</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/011.1932.04.10.to.04.23.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>APRIL</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-04-10">Su</date></label>[blank]</l>
+                  <l>[blank]<label>10</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-04-11">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>11</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-04-12">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>12</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-04-13">We</date></label>[blank]</l>
+                  <l>[blank]<label>13</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-04-14">Th</date></label>[blank]</l>
+                  <l>[blank]<label>14</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-04-15">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>15</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-04-16">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>16</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+         </div>
+         <pb type="recto"/>
+         <div type="entry">
+            <lg>
+               <l>[blank]</l>
+               <l>[blank]<head>APRIL</head>[blank]</l>
+               <l>[blank]<label><date when-iso="1932-04-17">Su</date></label>[blank]</l>
+               <l>[blank]<label>17</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-04-18">Mo</date></label>[blank]</l>
+               <l>[blank]<label>18</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-04-19">Tu</date></label>[blank]</l>
+               <l>[blank]<label>19</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-04-20">We</date></label>[blank]</l>
+               <l>[blank]<label>20</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-04-21">Th</date></label>[blank]</l>
+               <l>[blank]<label>21</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-04-22">Fr</date></label>[blank]</l>
+               <l>[blank]<label>22</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-04-23">Sa</date></label>[blank]</l>
+               <l>[blank]<label>23</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/012.1932.04.24.to.05.07.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>APRIL</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-04-24">Su</date></label>[blank]</l>
+                  <l>[blank]<label>24</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-04-25">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>25</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-04-26">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>26</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-04-27">We</date></label>[blank]</l>
+                  <l>[blank]<label>27</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-04-28">Th</date></label>[blank]</l>
+                  <l>[blank]<label>28</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-04-29">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>2</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-04-30">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>30</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+         </div>
+         <pb type="recto"/>
+         <div type="entry">
+            <lg>
+               <l>[blank]</l>
+               <l>[blank]<head>MAY</head>[blank]</l>
+               <l>[blank]<label><date when-iso="1932-05-01">Su</date></label>[blank]</l>
+               <l>[blank]<label>1</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-05-02">Mo</date></label>[blank]</l>
+               <l>[blank]<label>2</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-05-03">Tu</date></label>[blank]</l>
+               <l>[blank]<label>3</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-05-04">We</date></label>[blank]</l>
+               <l>[blank]<label>4</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-05-05">Th</date></label>[blank]</l>
+               <l>[blank]<label>5</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-05-06">Fr</date></label>[blank]</l>
+               <l>[blank]<label>6</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-05-07">Sa</date></label>[blank]</l>
+               <l>[blank]<label>7</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/013.1932.05.08.to.05.21.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>MAY</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-05-08">Su</date></label>[blank]</l>
+                  <l>[blank]<label>8</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-05-09">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>9</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-05-10">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>10</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-05-11">We</date></label>[blank]</l>
+                  <l>[blank]<label>11</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-05-12">Th</date></label>[blank]</l>
+                  <l>[blank]<label>12</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-05-13">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>13</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-05-14">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>14</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+         </div>
+         <pb type="recto"/>
+         <div type="entry">
+            <lg>
+               <l>[blank]</l>
+               <l>[blank]<head>MAY</head>[blank]</l>
+               <l>[blank]<label><date when-iso="1932-05-15">Su</date></label>[blank]</l>
+               <l>[blank]<label>15</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-05-16">Mo</date></label>[blank]</l>
+               <l>[blank]<label>16</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-05-17">Tu</date></label>[blank]</l>
+               <l>[blank]<label>17</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-05-18">We</date></label>[blank]</l>
+               <l>[blank]<label>18</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-05-19">Th</date></label>[blank]</l>
+               <l>[blank]<label>19</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-05-20">Fr</date></label>[blank]</l>
+               <l>[blank]<label>20</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-05-21">Sa</date></label>[blank]</l>
+               <l>[blank]<label>21</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/014.1932.05.22.to.06.04.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>MAY</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-05-22">Su</date></label>[blank]</l>
+                  <l>[blank]<label>22</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-05-23">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>23</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-05-24">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>24</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-05-25">We</date></label>[blank]</l>
+                  <l>[blank]<label>25</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-05-26">Th</date></label>[blank]</l>
+                  <l>[blank]<label>26</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-05-27">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>27</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-05-28">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>28</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+         </div>
+         <pb type="recto"/>
+         <div type="entry">
+            <lg>
+               <l>[blank]</l>
+               <l>[blank]<head>MAY—JUNE</head>[blank]</l>
+               <l>[blank]<label><date when-iso="1932-05-29">Su</date></label>[blank]</l>
+               <l>[blank]<label>29</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-05-30">Mo</date></label>[blank]</l>
+               <l>[blank]<label>30</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-05-31">Tu</date></label>[blank]</l>
+               <l>[blank]<label>31</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-06-01">We</date></label>[blank]</l>
+               <l>[blank]<label>1</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-06-02">Th</date></label>[blank]</l>
+               <l>[blank]<label>2</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-06-03">Fr</date></label>[blank]</l>
+               <l>[blank]<label>3</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-06-04">Sa</date></label>[blank]</l>
+               <l>[blank]<label>4</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/015.1932.06.05.to.06.11.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>JUNE</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-06-05">Su</date></label>[blank]</l>
+                  <l>[blank]<label>5</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-06-06">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>6</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-06-07">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>7</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-06-08">We</date></label>[blank]</l>
+                  <l>[blank]<label>8</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-06-09">Th</date></label>[blank]</l>
+                  <l>[blank]<label>9</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-06-10">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>10</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-06-11">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>11</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+         </div>
+         <pb type="recto"/>
+         <div type="entry">
+            <lg>
+               <l>[blank]</l>
+               <l>[blank]<head>JUNE</head>[blank]</l>
+               <l>[blank]<label><date when-iso="1932-06-12">Su</date></label>[blank]</l>
+               <l>[blank]<label>12</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-06-13">Mo</date></label>[blank]</l>
+               <l>[blank]<label>13</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-06-14">Tu</date></label>[blank]</l>
+               <l>[blank]<label>14</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-06-15">We</date></label>[blank]</l>
+               <l>[blank]<label>15</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-06-16">Th</date></label>[blank]</l>
+               <l>[blank]<label>16</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-06-17">Fr</date></label>[blank]</l>
+               <l>[blank]<label>17</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-06-18">Sa</date></label>[blank]</l>
+               <l>[blank]<label>18</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/017.1932.06.19.to.07.02.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>JUNE</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-06-19">Su</date></label>[blank]</l>
+                  <l>[blank]<label>19</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-06-20">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>20</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-06-21">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>21</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-06-22">We</date></label>[blank]</l>
+                  <l>[blank]<label>22</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-06-23">Th</date></label>[blank]</l>
+                  <l>[blank]<label>23</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-06-24">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>24</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-06-25">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>25</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+         </div>
+         <pb type="recto"/>
+         <div type="entry">
+            <lg>
+               <l>[blank]</l>
+               <l>[blank]<head>JUNE—JULY</head>[blank]</l>
+               <l>[blank]<label><date when-iso="1932-06-26">Su</date></label>[blank]</l>
+               <l>[blank]<label>26</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-06-27">Mo</date></label>[blank]</l>
+               <l>[blank]<label>27</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-06-28">Tu</date></label>[blank]</l>
+               <l>[blank]<label>28</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-06-29">We</date></label>[blank]</l>
+               <l>[blank]<label>29</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-06-30">Th</date></label>[blank]</l>
+               <l>[blank]<label>30</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-07-01">Fr</date></label>[blank]</l>
+               <l>[blank]<label>1</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-07-02">Sa</date></label>[blank]</l>
+               <l>[blank]<label>2</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/018.1932.07.03.to.07.16.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>JULY</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-07-03">Su</date></label>[blank]</l>
+                  <l>[blank]<label>3</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-07-04">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>4</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-07-05">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>5</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-07-06">We</date></label>[blank]</l>
+                  <l>[blank]<label>6</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-07-07">Th</date></label>[blank]</l>
+                  <l>[blank]<label>7</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-07-08">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>8</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-07-09">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>9</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+         </div>
+         <pb type="recto"/>
+         <div type="entry">
+            <lg>
+               <l>[blank]</l>
+               <l>[blank]<head>JULY</head>[blank]</l>
+               <l>[blank]<label><date when-iso="1932-07-10">Su</date></label>[blank]</l>
+               <l>[blank]<label>10</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-07-11">Mo</date></label>[blank]</l>
+               <l>[blank]<label>11</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-07-12">Tu</date></label>[blank]</l>
+               <l>[blank]<label>12</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-07-13">We</date></label>[blank]</l>
+               <l>[blank]<label>13</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-07-14">Th</date></label>[blank]</l>
+               <l>[blank]<label>14</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-07-15">Fr</date></label>[blank]</l>
+               <l>[blank]<label>15</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-07-16">Sa</date></label>[blank]</l>
+               <l>[blank]<label>16</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/019.1932.07.17.to.07.30.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>JULY</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-07-17">Su</date></label>[blank]</l>
+                  <l>[blank]<label>17</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-07-18">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>18</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-07-19">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>19</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-07-20">We</date></label>[blank]</l>
+                  <l>[blank]<label>20</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-07-21">Th</date></label>[blank]</l>
+                  <l>[blank]<label>21</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-07-22">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>22</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-07-23">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>23</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+         </div>
+         <pb type="recto"/>
+         <div type="entry">
+            <lg>
+               <l>[blank]</l>
+               <l>[blank]<head>JULY—AUGUST</head>[blank]</l>
+               <l>[blank]<label><date when-iso="1932-07-24">Su</date></label>[blank]</l>
+               <l>[blank]<label>24</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-07-25">Mo</date></label>[blank]</l>
+               <l>[blank]<label>25</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-07-26">Tu</date></label>[blank]</l>
+               <l>[blank]<label>26</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-07-27">We</date></label>[blank]</l>
+               <l>[blank]<label>27</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-07-28">Th</date></label>[blank]</l>
+               <l>[blank]<label>28</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-07-29">Fr</date></label>[blank]</l>
+               <l>[blank]<label>29</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-07-30">Sa</date></label>[blank]</l>
+               <l>[blank]<label>30</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/020.1932.07.31.to.08.13.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>JULY—AUGUST</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-07-31">Su</date></label>[blank]</l>
+                  <l>[blank]<label>31</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-08-01">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>1</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-08-02">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>2</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-08-03">We</date></label>[blank]</l>
+                  <l>[blank]<label>3</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-08-04">Th</date></label>[blank]</l>
+                  <l>[blank]<label>4</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-08-05">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>5</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-08-06">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>6</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+         </div>
+         <pb type="recto"/>
+         <div type="entry">
+            <lg>
+               <l>[blank]</l>
+               <l>[blank]<head>AUGUST</head>[blank]</l>
+               <l>[blank]<label><date when-iso="1932-08-07">Su</date></label>[blank]</l>
+               <l>[blank]<label>7</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-08-08">Mo</date></label>[blank]</l>
+               <l>[blank]<label>8</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-08-09">Tu</date></label>[blank]</l>
+               <l>[blank]<label>9</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-08-10">We</date></label>[blank]</l>
+               <l>[blank]<label>10</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-08-11">Th</date></label>[blank]</l>
+               <l>[blank]<label>11</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-08-12">Fr</date></label>[blank]</l>
+               <l>[blank]<label>12</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-08-13">Sa</date></label>[blank]</l>
+               <l>[blank]<label>13</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/021.1932.08.14.to.08.27.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>AUGUST</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-08-14">Su</date></label>[blank]</l>
+                  <l>[blank]<label>14</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-08-15">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>15</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-08-16">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>16</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-08-17">We</date></label>[blank]</l>
+                  <l>[blank]<label>17</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-08-18">Th</date></label>[blank]</l>
+                  <l>[blank]<label>18</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-08-19">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>19</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-08-20">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>20</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+         </div>
+         <pb type="recto"/>
+         <div type="entry">
+            <lg>
+               <l>[blank]</l>
+               <l>[blank]<head>AUGUST</head>[blank]</l>
+               <l>[blank]<label><date when-iso="1932-08-21">Su</date></label>[blank]</l>
+               <l>[blank]<label>21</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-08-22">Mo</date></label>[blank]</l>
+               <l>[blank]<label>22</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-08-23">Tu</date></label>[blank]</l>
+               <l>[blank]<label>23</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-08-24">We</date></label>[blank]</l>
+               <l>[blank]<label>24</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-08-25">Th</date></label>[blank]</l>
+               <l>[blank]<label>25</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-08-26">Fr</date></label>[blank]</l>
+               <l>[blank]<label>26</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-08-27">Sa</date></label>[blank]</l>
+               <l>[blank]<label>27</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/022.1932.08.28.to.09.10.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>AUGUST—Sept.</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-08-28">Su</date></label>[blank]</l>
+                  <l>[blank]<label>28</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-08-29">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>29</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-08-30">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>30</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-08-31">We</date></label>[blank]</l>
+                  <l>[blank]<label>31</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-09-01">Th</date></label>[blank]</l>
+                  <l>[blank]<label>1</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-09-02">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>2</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-09-03">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>3</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+         </div>
+         <pb type="recto"/>
+         <div type="entry">
+            <lg>
+               <l>[blank]</l>
+               <l>[blank]<head>SEPTEMBER</head>[blank]</l>
+               <l>[blank]<label><date when-iso="1932-09-04">Su</date></label>[blank]</l>
+               <l>[blank]<label>4</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-09-05">Mo</date></label>[blank]</l>
+               <l>[blank]<label>5</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-09-06">Tu</date></label>[blank]</l>
+               <l>[blank]<label>6</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-09-07">We</date></label>[blank]</l>
+               <l>[blank]<label>7</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-09-08">Th</date></label>[blank]</l>
+               <l>[blank]<label>8</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-09-09">Fr</date></label>[blank]</l>
+               <l>[blank]<label>9</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-09-10">Sa</date></label>[blank]</l>
+               <l>[blank]<label>10</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/023.1932.09.11.to.09.24.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>SEPTEMBER</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-09-11">Su</date></label>[blank]</l>
+                  <l>[blank]<label>11</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-09-12">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>12</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-09-13">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>13</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-09-14">We</date></label>[blank]</l>
+                  <l>[blank]<label>14</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-09-15">Th</date></label>[blank]</l>
+                  <l>[blank]<label>15</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-09-16">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>16</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-09-17">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>17</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+         </div>
+         <pb type="recto"/>
+         <div type="entry">
+            <lg>
+               <l>[blank]</l>
+               <l>[blank]<head>SEPTEMBER</head>[blank]</l>
+               <l>[blank]<label><date when-iso="1932-09-18">Su</date></label>[blank]</l>
+               <l>[blank]<label>18</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-09-19">Mo</date></label>[blank]</l>
+               <l>[blank]<label>19</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-09-20">Tu</date></label>[blank]</l>
+               <l>[blank]<label>20</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-09-21">We</date></label>[blank]</l>
+               <l>[blank]<label>21</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-09-22">Th</date></label>[blank]</l>
+               <l>[blank]<label>22</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-09-23">Fr</date></label>[blank]</l>
+               <l>[blank]<label>23</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-09-24">Sa</date></label>[blank]</l>
+               <l>[blank]<label>24</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/024.1932.09.25.to.10.08.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>Sept.—Oct.</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-09-25">Su</date></label>[blank]</l>
+                  <l>[blank]<label>25</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-09-26">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>26</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-09-27">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>27</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-09-28">We</date></label>[blank]</l>
+                  <l>[blank]<label>28</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-09-29">Th</date></label>[blank]</l>
+                  <l>[blank]<label>29</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-09-30">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>30</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-10-01">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>1</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+         </div>
+         <pb type="recto"/>
+         <div type="entry">
+            <lg>
+               <l>[blank]</l>
+               <l>[blank]<head>OCTOBER</head>[blank]</l>
+               <l>[blank]<label><date when-iso="1932-10-02">Su</date></label>[blank]</l>
+               <l>[blank]<label>2</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-10-03">Mo</date></label>[blank]</l>
+               <l>[blank]<label>3</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-10-04">Tu</date></label>[blank]</l>
+               <l>[blank]<label>4</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-10-05">We</date></label>[blank]</l>
+               <l>[blank]<label>5</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-10-06">Th</date></label>[blank]</l>
+               <l>[blank]<label>6</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-10-07">Fr</date></label>[blank]</l>
+               <l>[blank]<label>07</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="entry">
+            <lg>
+               <l>[blank]<label><date when-iso="1932-10-08">Sa</date></label>[blank]</l>
+               <l>[blank]<label>08</label>[blank]</l>
+               <l>[blank]</l>
+            </lg>
+         </div>
+         <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/025.1932.10.09.to.10.22.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>OCTOBER</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-10-09">Su</date></label>[blank]</l>
+                  <l>[blank]<label>09</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-10-10">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>10</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-10-11">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>11</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-10-12">We</date></label>[blank]</l>
+                  <l>[blank]<label>12</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-10-13">Th</date></label>[blank]</l>
+                  <l>[blank]<label>13</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-10-14">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>14</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-10-15">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>15</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            </div>
+            <pb type="recto"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>OCTOBER</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-10-16">Su</date></label>[blank]</l>
+                  <l>[blank]<label>16</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-10-17">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>17</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-10-18">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>18</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-10-19">We</date></label>[blank]</l>
+                  <l>[blank]<label>19</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-10-20">Th</date></label>[blank]</l>
+                  <l>[blank]<label>20</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-10-21">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>21</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-10-22">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>22</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/026.1932.10.23.to.11.05.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>OCTOBER</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-10-23">Su</date></label>[blank]</l>
+                  <l>[blank]<label>23</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-10-24">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>24</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-10-25">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>25</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-10-26">We</date></label>[blank]</l>
+                  <l>[blank]<label>26</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-10-27">Th</date></label>[blank]</l>
+                  <l>[blank]<label>27</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-10-28">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>28</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-10-29">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>29</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            </div>
+            <pb type="recto"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>OCT.—NOVEMBER</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-10-30">Su</date></label>[blank]</l>
+                  <l>[blank]<label>30</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-10-31">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>31</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-01">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>1</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-02">We</date></label>[blank]</l>
+                  <l>[blank]<label>2</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-03">Th</date></label>[blank]</l>
+                  <l>[blank]<label>3</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-04">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>4</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-05">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>5</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/027.1932.11.06.to.11.19.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>NOVEMBER</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-11-06">Su</date></label>[blank]</l>
+                  <l>[blank]<label>6</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-07">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>7</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-08">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>8</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-09">We</date></label>[blank]</l>
+                  <l>[blank]<label>9</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-10">Th</date></label>[blank]</l>
+                  <l>[blank]<label>10</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-11">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>11</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-12">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>12</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            </div>
+            <pb type="recto"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>NOVEMBER</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-11-13">Su</date></label>[blank]</l>
+                  <l>[blank]<label>13</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-14">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>14</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-15">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>15</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-16">We</date></label>[blank]</l>
+                  <l>[blank]<label>16</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-17">Th</date></label>[blank]</l>
+                  <l>[blank]<label>17</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-18">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>18</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-19">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>19</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/028.1932.11.20.to.12.03.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>NOVEMBER</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-11-20">Su</date></label>[blank]</l>
+                  <l>[blank]<label>20</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-21">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>21</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-22">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>22</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-23">We</date></label>[blank]</l>
+                  <l>[blank]<label>23</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-24">Th</date></label>[blank]</l>
+                  <l>[blank]<label>24</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-25">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>25</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-26">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>26</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            </div>
+            <pb type="recto"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>NOV.—DECEMBER</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-11-27">Su</date></label>[blank]</l>
+                  <l>[blank]<label>27</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-28">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>28</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-29">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>29</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-11-30">We</date></label>[blank]</l>
+                  <l>[blank]<label>30</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-01">Th</date></label>[blank]</l>
+                  <l>[blank]<label>1</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-02">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>2</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-03">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>3</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/029.1932.12.04.to.12.17.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>DECEMBER</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-12-04">Su</date></label>[blank]</l>
+                  <l>[blank]<label>4</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-05">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>5</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-06">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>7</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-07">We</date></label>[blank]</l>
+                  <l>[blank]<label>7</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-08">Th</date></label>[blank]</l>
+                  <l>[blank]<label>8</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-09">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>9</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-10">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>10</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            </div>
+            <pb type="recto"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>DECEMBER</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-12-11">Su</date></label>[blank]</l>
+                  <l>[blank]<label>11</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-12">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>12</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-13">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>13</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-14">We</date></label>[blank]</l>
+                  <l>[blank]<label>14</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-15">Th</date></label>[blank]</l>
+                  <l>[blank]<label>15</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-16">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>16</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+            <lg>
+                  <l>[blank]<label><date when-iso="1932-12-17">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>17</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="image" facs="https://moorearchive.org/app/site/media/datebooks/1932/030.1932.12.18.to.12.31.jpg">
+            <pb type="verso"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>DECEMBER</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-12-18">Su</date></label>[blank]</l>
+                  <l>[blank]<label>18</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>      
+                  <l>[blank]<label><date when-iso="1932-12-19">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>19</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg><l>[blank]<label><date when-iso="1932-12-20">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>20</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-21">We</date></label>[blank]</l>
+                  <l>[blank]<label>21</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-22">Th</date></label>[blank]</l>
+                  <l>[blank]<label>22</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-23">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>23</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-24">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>24</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            </div>
+            <pb type="recto"/>
+            <div type="entry">
+               <lg>
+                  <l>[blank]</l>
+                  <l>[blank]<head>DECEMBER</head>[blank]</l>
+                  <l>[blank]<label><date when-iso="1932-12-25">Su</date></label>[blank]</l>
+                  <l>[blank]<label>25</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-26">Mo</date></label>[blank]</l>
+                  <l>[blank]<label>26</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-27">Tu</date></label>[blank]</l>
+                  <l>[blank]<label>27</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-28">We</date></label>[blank]</l>
+                  <l>[blank]<label>28</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-29">Th</date></label>[blank]</l>
+                  <l>[blank]<label>29</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-30">Fr</date></label>[blank]</l>
+                  <l>[blank]<label>30</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+            </div>
+            <div type="entry">
+               <lg>
+                  <l>[blank]<label><date when-iso="1932-12-31">Sa</date></label>[blank]</l>
+                  <l>[blank]<label>31</label>[blank]</l>
+                  <l>[blank]</l>
+               </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
